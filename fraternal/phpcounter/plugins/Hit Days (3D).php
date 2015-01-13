@@ -1,0 +1,128 @@
+<?php
+	echo "<h2>Graphical Hit Days 3D</h2>";
+	
+	if(GetNumberOfHits()){
+		EchoDataStart();
+		$FA = GetDataAsArray();
+		$i=0;
+		
+		$Days = array("Mon" => 0, "Tue" => 0, "Wed" => 0, "Thu" => 0, "Fri" => 0, "Sat" => 0, "Sun" => 0);
+		$TotalHits = 0;
+						
+		for($i=count($FA)-1; $i>=0; $i--){ //we start at count-1 because the very first one - the last line in the log - is empty
+			//echo "<div>$i:$FA[$i]<br></div>";
+			//Clean up the data and display it!
+			//	$s = "$script_name\t$request_uri\t$referer\t$user_agent\t$remote\t". time() . "\n";
+
+			list($ActualURL, $RequestedURL, $Referer, $UA, $Remote, $HitTime) = explode("\t", trim($FA[$i]));
+			$Days[date("D", $HitTime)]++;
+			$TotalHits++;
+			}
+			
+		$Percentages = array("Mon" => 0, "Tue" => 0, "Wed" => 0, "Thu" => 0, "Fri" => 0, "Sat" => 0, "Sun" => 0);
+		
+		//Start drawing
+			
+			$ThreeDOffset = 10;
+		
+			$ImagePath = "./ghitdays3d.png";
+			$image = imagecreate(500+$ThreeDOffset+10, 300);
+			$white = imagecolorallocate($image, 0xFF, 0xFF, 0xFF); 
+			$navy = imagecolorallocate($image, 0x00, 0x00, 0x80); 
+			$black = imagecolorallocate($image, 0x00, 0x00, 0x00); 
+			$gray = imagecolorallocate($image, 0xC0, 0xC0, 0xC0);
+			
+			
+			
+			imagestring($image, 5, 21, 21, "PHPCounter VII Graphical Hit Days Plugin", $gray);
+			imagestring($image, 5, 20, 20, "PHPCounter VII Graphical Hit Days Plugin", $black);		
+			imagestring($image, 5, 20, 280, "Generated on " .date("d M y h:i:s A", time()), $black);
+			imageline($image, 0, 60, 500, 60, $black);
+			
+				
+			imagestring($image, 4, 30, 255, "Mon", $black);
+			imagestring($image, 4, 90, 255, "Tue", $black);
+			imagestring($image, 4, 150, 255, "Wed", $black);
+			imagestring($image, 4, 210, 255, "Thu", $black);
+			imagestring($image, 4, 270, 255, "Fri", $black);
+			imagestring($image, 4, 330, 255, "Sat", $black);
+			imagestring($image, 4, 390, 255, "Sun", $black);
+			
+			imagestring($image, 3, 450, 100, "Hits", $black);
+			imagestring($image, 3, 450, 120, "Percent", $black);
+			
+			imageline($image, 0, 250, 500, 250, $black); // base line
+			imageline($image, 0+$ThreeDOffset, 250-$ThreeDOffset, 500+$ThreeDOffset, 250-$ThreeDOffset, $black); // 3D base line
+			imageline($image, 0, 250, 0+$ThreeDOffset, 250-$ThreeDOffset, $black); // base line
+			imageline($image, 500, 250, 500+$ThreeDOffset, 250-$ThreeDOffset, $black); // base line
+			
+			imageline($image, 0, 250, 0, 100, $black); // base line
+			imageline($image, 0+$ThreeDOffset, 250-$ThreeDOffset, 0+$ThreeDOffset, 100-$ThreeDOffset, $black); // base line
+			imageline($image, 0, 100, 0+$ThreeDOffset, 100-$ThreeDOffset, $black); // base line
+			imageline($image, 0+$ThreeDOffset, 100-$ThreeDOffset,500+$ThreeDOffset, 100-$ThreeDOffset, $black); // base line
+			imageline($image, 500+$ThreeDOffset, 250-$ThreeDOffset, 500+$ThreeDOffset, 100-$ThreeDOffset, $black); // base line
+			
+			imageline($image, 0, 150, 0+$ThreeDOffset, 150-$ThreeDOffset, $black); 
+			imageline($image, 0+$ThreeDOffset, 150-$ThreeDOffset, 500+$ThreeDOffset, 150-$ThreeDOffset, $black); // 3D base line
+			
+			imageline($image, 0, 175, 0+$ThreeDOffset, 175-$ThreeDOffset, $gray); 
+			imageline($image, 0+$ThreeDOffset, 175-$ThreeDOffset, 500+$ThreeDOffset, 175-$ThreeDOffset, $gray); // 3D base line
+			
+			imageline($image, 0, 200, 0+$ThreeDOffset, 200-$ThreeDOffset, $black); 
+			imageline($image, 0+$ThreeDOffset, 200-$ThreeDOffset, 500+$ThreeDOffset, 200-$ThreeDOffset, $black); // 3D base line
+			
+			imageline($image, 0, 225, 0+$ThreeDOffset, 225-$ThreeDOffset, $gray); 
+			imageline($image, 0+$ThreeDOffset, 225-$ThreeDOffset, 500+$ThreeDOffset, 225-$ThreeDOffset, $gray); // 3D base line
+			
+		//100% in the image is 100px.
+		$x = 30;
+		$HighestPC = 0; 
+		foreach($Days as $D=>$C){
+			$pc = ((100 * $C)/$TotalHits);
+			$Percentages[$D] = trim(number_format($pc, 1, ".", ""));
+			if($Percentages[$D] > $HighestPC){
+				$HighestPC = $Percentages[$D];
+				}
+			}
+		
+		foreach($Days as $D=>$C){
+			$pc = $Percentages[$D];
+			$Colour = GetRandomColour();
+			$y = 250 - (100 * ($pc /$HighestPC)); // = 100px * $pc /100
+			if($pc>0){
+				//imagefilledrectangle($image, $x+5, $y+2, $x+17, 249, $black);//shadow
+				imagefilledrectangle($image, $x+5, $y, $x+15, 249, $Colour);
+				//imageline($image, 0+$ThreeDOffset, $y, 500+$ThreeDOffset, $y, $Colour);
+				// Create an array for the top part of the column
+
+    			$ThreeDPoints = array($x+5,$y,
+                	$x+5+$ThreeDOffset,$y-$ThreeDOffset,
+                	$x+15+$ThreeDOffset,$y-$ThreeDOffset,
+                	$x+15,$y);
+
+				// Now draw it.
+    			imagefilledpolygon($image,$ThreeDPoints,4,$Colour);
+    			$ThreeDPoints = array(
+    				$x+15, $y,
+                	$x+15+$ThreeDOffset,$y-$ThreeDOffset,
+                	$x+15+$ThreeDOffset, 249-$ThreeDOffset,
+                	$x+15,249);
+    			imagefilledpolygon($image,$ThreeDPoints,4,$Colour);
+                	
+				imagestring($image, 3, $x+5, 100,$C, $Colour);
+				imagestring($image, 3, $x-5, 120,$Percentages[$D] . "%", $Colour);
+				}
+			$x += 60;
+			}
+			imagepng($image, $ImagePath);
+			echo "<p class=\"HelpHint\">Note: Colours are randomly generated. If you do not like the colours of the graph, refresh and a new set will be generated.</p>";
+			echo "<p><img src=\"ghitdays3d.png?" . time() . "\" alt=\"Hit Days 3D\"/></p>";
+			//End drawing
+		}
+	else{
+		echo "<p>There are no hits in the current Epoch.</p>";
+		}
+?>
+<hr />
+<div class="PluginInfo">PHPCounter 7 Core Plugin Graphical Hit Days - 08Jan05 Release</div>
+<div class="PluginInfo">Copyright &copy; 2003 Pierre Far. Free for non-commercial use.</div>

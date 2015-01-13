@@ -1,0 +1,1 @@
+/Dev/home.php	/Dev/home.php	http://www.aladdinshrine.org/Dev/	Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 8.12; MSIEMobile6.0) Sprint T7380	108-99-65-120.pools.spcsdns.net	1298239873	-	-	GET	-	en-US,en;q=0.9

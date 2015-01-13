@@ -1,0 +1,14 @@
+/* CSS Document */
+body {color:#990000}
+a:link {font: 16px;
+        color: #ff0000;
+        font-family: "Arial Narrow",Arial, Verdana, Sans-Serif}
+a:visited {font: 16px;
+           color: #00ff00;
+           font-family: "Arial Narrow",Arial, Verdana, Sans-Serif}
+a:hover {font: 16px;
+         color: #ff00ff;
+         font-family: "Arial Narrow",Arial, Verdana, Sans-Serif}
+a:active {font: 16px;
+          color: #0000ff;
+          font-family: "Arial Narrow",Arial, Verdana, Sans-Serif}
