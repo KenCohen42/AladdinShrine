@@ -1,0 +1,2 @@
+<center><iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;title=Aladdin%20Shrine%20Event%20and%20Convention%20Center&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffcc66&amp;src=mason340.com_g1m8pdq3qag4l0te1a54qjhmtc%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FNew_York" style=" border:solid 1px #777 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</center>
