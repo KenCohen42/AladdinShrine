@@ -18,9 +18,9 @@
         <a href="forms/clubInformationForm.pdf" target="_blank">PDF</a><br/><br/>
       <h2>ASHAC Application</h2>
         
-      <a href="forms/ASHACApplication.pdf">ASHAC Application Form</a><br/>
-	  <a href="content/2012ASHACLetter2Clubs.pdf">2012 Aladdin Shriners Hospital Asso. For Children, Inc Distribution of Funds</a><br/>
-	  <a href="forms/2012ASHACRequest4Funds.xls">2012 Request for Funds</a><br/><br/>
+      <a href="forms/ASHACApplication.pdf">2015 ASHAC Application Form</a><br/>
+	  <a href="forms/ASHACDistribution.pdf">2015 Aladdin Shriners Hospital Asso. For Children, Inc Distribution of Funds</a><br/><br/>
+
       <h2>Membership Forms</h2>
 	  <a href="forms/2014NewMemberPetitionJune.pdf" target="_blank">New Petition - June(PDF)</a><br/>
 	  <a href="forms/2014NewMemberPetitionOctober.pdf" target="_blank">New Petition - October(PDF)</a><br/>
