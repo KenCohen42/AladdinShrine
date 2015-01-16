@@ -4,11 +4,11 @@
 <table width="90%">
   <tr> 
     <td> <b>President:</b> </td>
-    <td> Jack Jones <a href="jack@2ba.co">jack@2ba.co</a></td>
+    <td> Matt Carson (Robin) </td>
   </tr>
   <tr> 
     <td> <b>1st Vice President:</b> </td>
-    <td> Larry Wills (Kathy) <a href="vsb59@yahoo.com">vsb59@yahoo.com</a></td>
+    <td> Robert Ferrell, Jr (Deborah) </td>
   </tr>
   <tr> 
     <td> <b>Secretary:</b> </td>
@@ -17,12 +17,12 @@
   </tr>
   <tr> 
     <td> <b>Treasurer:</b> </td>
-    <td> Charles Linek (Laura) <a href="mailto:cjlinek@bodinet.net">cjlinek@bodinet.net</a> 
+    <td> Dave Gubanc (Phyllis)
     </td>
   </tr>
   <tr> 
     <td> <b>Divan Rep:</b> </td>
-    <td> Dave Wolfe</td>
+    <td>Todd Jones</td>
   </tr>
   <tr> 
     <td colspan=2"> Meeting Date: 3rd Thursday</td>
