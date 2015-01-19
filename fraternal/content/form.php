@@ -22,11 +22,10 @@
 	  <a href="forms/ASHACDistribution.pdf">2015 Aladdin Shriners Hospital Asso. For Children, Inc Distribution of Funds</a><br/><br/>
 
       <h2>Membership Forms</h2>
-	  <a href="forms/2014NewMemberPetitionJune.pdf" target="_blank">New Petition - June(PDF)</a><br/>
-	  <a href="forms/2014NewMemberPetitionOctober.pdf" target="_blank">New Petition - October(PDF)</a><br/>
-      <a href="forms/2014RestorationPetition.pdf" target="_blank">Petition for Restoration (PDF)</a><br/>
-      <a href="forms/2014AffiliationPetition.pdf" target="_blank">Petition for Affiliation (PDF)</a><br/>
-      <a href="forms/2014AssociatePetition.pdf" target="_blank">Petition for Associate Membership (PDF)</a><br/>
+	  <a href="forms/2015NewMemberPetition.docx" target="_blank">New Petition (WORD)</a><br/>
+      <a href="forms/2015RestorationPetition.docx" target="_blank">Petition for Restoration (WORD)</a><br/>
+      <a href="forms/2015Affiliation.docx" target="_blank">Petition for Affiliation (WORD)</a><br/>
+      <a href="forms/2014Associate.docx" target="_blank">Petition for Associate Membership (WORD)</a><br/>
 
       </td>
   </tr>
