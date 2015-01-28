@@ -5,6 +5,9 @@
 	  galleryarray[1] = "slide1.jpg";
 	  galleryarray[2] = "slide2.jpg";
 	  galleryarray[3] = "slide3.jpg";
+	  galleryarray[4] = "slide4.jpg";
+	  galleryarray[5] = "slide5jpg";
+	  galleryarray[6] = "slide6.jpg";
 	  var curimg=0;
 	  function rotateImages(){
 	     document.getElementById("slideshow").setAttribute("src", "images/ActiveSlideShow/home/"+galleryarray[curimg]);
