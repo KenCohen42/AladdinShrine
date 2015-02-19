@@ -62,9 +62,9 @@
 	<td>Cell: (330) 806-8991 Fax: (614) 471-2776</td>
   </tr>
   <tr> 
-    <td>W. Garol Rogers</td>
+    <td>David Wolfe</td>
     <td>Potentate</td>
-    <td><a href="mailto:billamspaugh@gmail.com">grogers@aladdinshrine.org</a></td>
+    <td><a href="mailto:davewolfe@aladdinshrine.org">davewolfe@aladdinshrine.org</a></td>
     <td>ext. 104</td>
   </tr>
   <tr> 

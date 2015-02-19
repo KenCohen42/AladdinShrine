@@ -3,6 +3,7 @@
  	<td valign="top" align="center">
 	<img src="/images/lamp.png"><br/>
 	 <h2>2015</h2>
+	  <a href="/lamps/201502.pdf">February 2015 Lamp</a><br/>
 	  <a href="/lamps/201501.pdf">January 2015 Lamp</a>
 	 <h2>2014</h2>
       <a href="/lamps/201412.pdf">December 2014 Lamp</a><br/>
