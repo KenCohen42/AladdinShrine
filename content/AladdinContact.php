@@ -6,10 +6,6 @@
 		v 614.475.2609<br/>
 		f 614.475.0052<br/>
 		toll-free 800.475.3850<p>
-	    <strong>Building Operations Manager/Rental Coordinator</strong><br/>
-		<a href="mailto:bspringer@aladdinshrine.org">Brenda Springer</a><br/>
-		v 614.475.2609 ext 101<br/>
-		bspringer@aladdinshrine.org<p>
 		<strong>Business Development</strong><br/>
 		<a href="mailto:teisleben@aladdinshrine.org">Ted Eisleben</a><br/>
 		v 614.475.2609 ext 102<br/>

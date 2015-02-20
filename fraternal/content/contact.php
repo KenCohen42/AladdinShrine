@@ -22,12 +22,6 @@
     <td>ext. 110</td>
   </tr>
   <tr> 
-    <td>Brenda Springer</td>
-    <td>Marketing Manager</td>
-    <td><a href="mailto:bspringer@aladdinshrine.org">bspringer@aladdinshrine.org</a></td>
-    <td>ext. 101</td>
-  </tr>
-  <tr> 
     <td>Ted Eisleben</td>
     <td>Fraternal Administrator</td>
     <td><a href="mailto:teisleben@aladdinshrine.org">teisleben@aladdinshrine.org</a></td>
