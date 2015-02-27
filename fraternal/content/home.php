@@ -33,22 +33,22 @@
     </td>
   </tr>
   <tr>
-    <td><a href="http://smile.amazon.com/ch/31-6027695"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEfb6WgESNqwijfaNcXoZfchXDvjlxf204iNbfAWTt8OxIScspR607Yo" alt="Amazon Smile"><br/>
-	Now: use Amazon Smiles to support ASHAC</a></td>
+    &nbsp;&nbsp;<td><a href="http://smile.amazon.com/ch/31-6027695"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEfb6WgESNqwijfaNcXoZfchXDvjlxf204iNbfAWTt8OxIScspR607Yo" alt="Amazon Smile"><br/>
+	&nbsp;&nbsp;Now: use Amazon Smiles to support ASHAC</a></td>
   </tr>
   <tr>
     <td>
 	<br/><br/><hr/><br/>
-	<a href="images/GMEdict20141204.pdf" target="new">Grand Master's Edict Regarding Gambling</a>
+	&nbsp;&nbsp;<a href="images/GMEdict20141204.pdf" target="new">Grand Master's Edict Regarding Gambling</a>
 	<br/><br/><hr><br/><br/>
 	<h2>Coming Events</h2>
- 
+       &nbsp;&nbsp;<a href="parade.php">2015 Parade Schedule</a><br/><br/>
       <p>
 	  <hr/>
 	    <!-- Facebook Badge START -->
 		<br/>
 		<a href="http://www.facebook.com/aladdinshrine" 
-		   target="_TOP" >
+		&nbsp;&nbsp;   target="_TOP" >
 		Find us on <img src="http://i48.photobucket.com/albums/f212/thahacksaw/facebook-logo.jpg" alt="facebook">
 		</a>
 		<br/>
