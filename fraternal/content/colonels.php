@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>John Bevins <a href="mailto:gray.ghost@live.com">gray.ghost@live.com</a></td>
+	<td>Howard Schenaman (Linda) <a href="mailto:schuenie@yahoo.com">schuenie@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>James Smith (Vickie)</td>
+	<td>Aaron C. Dominey (Judi) <a href="mailto:acdominey@gmail.com">acdominey@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Ron Frasier (Margaret) <a href="mailto:tronfraser@gmail.com">tronfraser@gmail.com</a></td>
+	<td>Robert S. Jones (Suzanne) <a href="mailto:webdrug@msn.com">webdrug@msn.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,11 +18,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>David Wolfe</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
     <td colspan="2">
-	Meeting Date:4th Thursday
+	Meeting Date:4th Tuesday
     </td>
   </tr>
 </table>

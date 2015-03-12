@@ -21,17 +21,17 @@
 
 
 	  <h2>Board of Trustees</h2>
-	  President: Ron Hobensack<br/>
-	  1st Vice President: Terry McLaughin<br/>
-	  2nd Vice President: Andrew Baker<br/>
+	  President: Terry McLaughin<br/>
+	  1st Vice President: Andrew Baker<br/>
+	  2nd Vice President: Matt Knight<br/>
 	  Treasurer: Dennis Feyh<br/>
 	  Recorder: Donald Goodman P.P.<br/>
-      Trustees: Keith Blair, MD, Bryan Chorey, Louis J.R. Goorey MD, Matt Knight, 
+      Trustees: Keith Blair, MD, Bryan Chorey, Louis J.R. Goorey MD, Ron Hobensack,
       Ron Leonard, David D. Mowry, Garol Rogers, Donald Tootle, Dick Westinghouse, 
       David Woole<br/>
 	  General Council: Mark McLeod<br/>
 	  Medical Director: John Kean, MD <br/>
-	  Secretary/Administrator: Gene F. Steineman<br/>
+	  Secretary/Administrator: Chad Dennewitz<br/>
       <hr/>
       <img src="images/ashac.png" align="right">
 	  <h2>"DO YOU KNOW WHAT A.S.H.A.C. REPRESENTS?"</h2>

@@ -2,15 +2,11 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Jim L. Duke (Brenda)</td>
-  </tr>
-  <tr>
-	<td valign="top"><b>1st Vice President:</b></td>
 	<td>Doyle Saunders (Sharon) <a href="mailto:doyle_sharon@hughes.net">doyle_sharon@hughes.net	</a></td>
   </tr>
   <tr>
-    <td><b>2nd Vice President:</b></td>
-	<td>Robert L. Ritterbeck (Christina) <a href="rritterbeck@intelliwave.com">rritterbeck@intelliwave.com</a></td>
+    <td><b>1st Vice President:</b></td>
+	<td>Bob Ritterbeck (Christy) <a href="rritterbeck@hughes.net">rritterbeck@hughes.net</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -22,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Zale Maxwell</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
     <td colspan="2">

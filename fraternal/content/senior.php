@@ -1,39 +1,25 @@
 <table width="90%">
  <tr>
-  <td>
-  <p class=MsoNormal><b>President:</b></p>
-  </td>
-  <td>
-  <p class=MsoNormal>William <span class=SpellE>Pendell</span></p>
-  </td>
+  <td> <b>President:</b>  </td>
+  <td>Layrd Cunningham (Luretta) </td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>1st Vice President:</b></p>
-  </td>
-  <td>
-  <p class=MsoNormal>James <span class=SpellE>Stelzer</span> (Liz)</p>
-  </td>
+  <td> <b>1st Vice President:</b> </td>
+  <td>Robert Neff <a href="jrneff@ameritech.net">jrneff@ameritech.net</a> </td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Treasurer:</b></p>
-  </td>
-  <td>
-  <p class=MsoNormal>Jack L. Allen (Yvonne)</p>
-  </td>
+   <td><b>Secretary</b></td>
+   <td>Jim Bontrager (Alice) <a href="mailto:jbontrager@columbus.rr.com">jbontrager@columbus.rr.com</a></td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Divan Rep:</b></p>
-  </td>
-  <td>
-  <p class=MsoNormal>Garol Rogers</p>
-  </td>
+  <td> <b>Treasurer:</b> </td>
+  <td> Jack L. Allen (Yvonne) </td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal>Meeting Date: 4th Wednesday </p>
-  </td>
+  <td> <b>Divan Rep:</b> </td>
+  <td>Jon Kinney </td>
+ </tr>
+ <tr>
+  <td colspan="2"> Meeting Date: 4th Wednesday  </td>
  </tr>
 </table>

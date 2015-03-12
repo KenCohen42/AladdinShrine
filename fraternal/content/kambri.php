@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Dick Bates (Susan) <a href="mailto:dickslyfox@aol.com">dickslyfox@aol.com</a></td>
+	<td>Timothy Oliver (Kim)</td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Theodore Calvert (Pam)</td>
+	<td>David Black</td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Donald Huston (Lynda)</td>
+	<td>Donald Huston (Lynda) <a href="mailto:donwalnut412@gmail.com">donwalnut412@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,11 +18,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Ron Leonard</td>
+	<td>Jon Kinney</td>
   </tr>
   <tr>
     <td colspan="2">
-	Meeting Date: 4th Thursday
+	Meeting Date: 2nd Thursday
     </td>
   </tr>
 </table>

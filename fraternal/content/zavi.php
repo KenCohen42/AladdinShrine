@@ -1,49 +1,26 @@
 <table width="90%">
 <tr >
-  <td>
-  <b>President</b>
-  </td>
-  <td>Tim Snelling <a href="mailto:tsnelling@columbus.rr.com">tsnelling@columbus.rr.com</a>
-  </td>
+  <td> <b>President</b> </td>
+  <td>Tim Snelling <a href="mailto:tsnelling@columbus.rr.com">tsnelling@columbus.rr.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>1st Vice President:</b>
-  </td>
-  <td>
-  Lloyd Miller
-  </td>
+  <td> <b>1st Vice President:</b> </td>
+  <td> Ed Shearrow (Katherine) <a href="mailto:shearrow@gmail.com">shearrow@gmail.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>Secretary:</b>
-  </td>
-  <td>
-   Ed Shearrow (Katherine) <a href="mailto:shearrow@gmail.com">shearrow@gmail.com</a>
-  </td>
+  <td> <b>Secretary:</b> </td>
+  <td> Lloyd Miller (Lovella) <a href="mailto:lmille13@columbus.rr.com">lmille13@columbus.rr.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>Treasurer:</b>
-  </td>
-  <td>
-  Ken Sayre (Gretchen)
-  </td>
+  <td> <b>Treasurer:</b> </td>
+  <td> Ken Sayre (Gretchen) </td>
  </tr>
  <tr>
-  <td>
-  <b>Divan Rep</b>
-  </td>
-  <td >
-  Garol Rogers
-  </td>
+  <td> <b>Divan Rep</b> </td>
+  <td > Zale Maxwell </td>
  </tr>
  <tr >
-  <td>
-  <b>Meeting Date:</b>
-  </td>
-  <td> 
-  4th Wednesday 
-  </td>
+  <td> <b>Meeting Date:</b> </td>
+  <td> 4th Wednesday </td>
   </tr>
  </table>

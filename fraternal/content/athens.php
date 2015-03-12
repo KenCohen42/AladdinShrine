@@ -2,19 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Mark Abdella (Lori Ann) <a href="mailto:ditchdoctor43@hotmail.com">ditchdoctor43@hotmail.com</a></td>
-  </tr>
-  <tr>
-	<td valign="top"><b>1st Vice President:</b></td>
 	<td>Charlie Adkins (Vicky)<a href="mailto:voteadkins@yahoo.com">voteadkins@yahoo.com</a></td>
   </tr>
   <tr>
-	<td valign="top"><b>2nd Vice President:</b></td>
-	<td>Scott Brooks (Gwenette) </td>
+	<td valign="top"><b>1st Vice President:</b></td>
+	<td>Scott Brooks (Gwenette) <a href="mailto:scottbrooks75@gmail.com">scottbrooks75@gmail.com</a> </td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Jeffrey Linscott <a href="mailto:besthelo@aol.com">besthelo@aol.com</a></td>
+	<td>Jeffrey Linscott (Paula) <a href="mailto:besthelo@aol.com">besthelo@aol.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -22,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Art Wilson</td>
   </tr>
   <tr>
     <td colspan="2">

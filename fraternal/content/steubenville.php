@@ -1,48 +1,25 @@
- <table><tr>
-  <td>
-  <b>President:</b>
-  </td>
-  <td>
-  Russell Barker Jr.&nbsp;
-  (Donna)
-  </td>
+ <table>
+ <tr>
+  <td>  <b>President:</b>  </td>
+  <td>  Arthur Miller, Jr (Heather) <a href="mailto:acmiller62@comcast.net">acmiller62@comcast.net</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>1st Vice President:</b>
-  </td>
-  <td>
-  Larry Sneathen (Patricia)
-  </td>
+  <td> <b>1st Vice President:</b> </td>
+  <td> Charles Vandine (Nancy) <a href="mailto:bucciwine@aol.com">bucciwine@aol.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>Secretary:</b>
-  </td>
-  <td>
-  Leonard W. Morris (Clara) <a
-  href="mailto:cynrose@clover.net">cynrose@clover.net</a>
-  </td>
+  <td> <b>Secretary:</b> </td>
+  <td> Leonard W. Morris (Clara) <a href="mailto:cynthiarmorris@yahoo.com">cynthiarmorris@yahoo.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>Treasurer:</b>
-  </td>
-  <td>
-  Jerry L. Wiliams, Sr. (JoAnn) <a href="mailto:jerryew60@oe.com">jerryew60@oe.com</a>
-  </td>
+  <td> <b>Treasurer:</b> </td>
+  <td> Jerry L. Wiliams, Sr. (JoAnn) <a href="mailto:jerrylw60@aol.com">jerrylw60@aol.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <b>Divan Rep:</b>
-  </td>
-  <td>
-  Todd Jones
-  </td>
+  <td> <b>Divan Rep:</b> </td>
+  <td> Art Wilson </td>
  </tr>
  <tr>
-  <td colspan=2>
-  Meeting Date: 1st Thursday 
-  </td>
+  <td colspan=2> Meeting Date: 2nd Thursday  </td>
  </tr>
 </table>

@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Wayne Erwin <a href="mailto:werwin1@columbus.rr.com">werwin1@columbus.rr.com</a></td>
-  </tr>
-  <tr>
-	<td valign="top"><b>1st Vice President:</b></td>
 	<td>Tracey Achterman (Nancy) </td>
   </tr>
   <tr>
+	<td valign="top"><b>1st Vice President:</b></td>
+	<td>Dean White </td>
+  </tr>
+  <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Steve Bowman (Mindy) <a href="mailto:sbow 55@hotmail.com">sbow 55@hotmail.com</a></td>
+	<td>Steve Bowman (Mindy) <a href="mailto:show_55@hotmail.com">show_55@hotmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Rodney Holdren</td>
   </tr>
   <tr>
     <td colspan="2">

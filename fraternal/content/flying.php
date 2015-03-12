@@ -1,16 +1,12 @@
 <center><h2>Aladdin Flying Club</h2></center>
 <table width="90%">
   <tr> 
-    <td valign="top"><b>Commander:</b></td>
-    <td>Wayne Williams (Cheryl) <a href="mailto:wayneandcheryl@hotmail.com">wayneandcheryl@hotmail.com</a></td>
+    <td valign="top"><b>Deputy Commander:</b></td>
+    <td>Steve Hathaway (Betsy) <a href="mailto:apch23@columbus.rr.com">apch23@columbus.rr.com</a></td>
   </tr>
   <tr> 
     <td valign="top"><b>Commander:</b></td>
     <td>Don Shartzer (June) <a href="mailto:ironbird837@yahoo.com">ironbird837@yahoo.com</a></td>
-  </tr>
-  <tr> 
-    <td valign="top"><b>Deputy Commander:</b></td>
-    <td>Steve Hathaway (Betsy) <a href="mailto:apch23@columbus.rr.com">apch23@columbus.rr.com</a></td>
   </tr>
   <tr> 
     <td height="23" valign="top"><b>Secretary/Treasurer:</b></td>
@@ -18,7 +14,7 @@
   </tr>
   <tr> 
     <td valign="top"><b>Divan Rep:</b></td>
-    <td>Todd Jones</td>
+    <td>Art Wilson</td>
   </tr>
   <tr> 
     <td colspan="2"> Meeting Date: 2nd Saturday </td>

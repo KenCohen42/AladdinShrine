@@ -10,9 +10,9 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Jon Kinney</td>
   </tr>
   <tr>
-    <td colspan="2"> Meeting Date: 4th Wednesday except July and August</td>
+    <td colspan="2"> Meeting Date: 4th Wednesday</td>
   </tr>
 </table>

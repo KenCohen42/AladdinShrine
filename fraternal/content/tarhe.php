@@ -13,11 +13,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
-	<td>Zale Mazwell <a href="mailto:maxwellz@ohio.edu">maxwellz@ohio.edu</a></td>
+	<td>Richard "Dick" clark (Becky) <a href="mailto:rclark63@columbus.rr.com">rclark63@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td></td>
+	<td> Todd Jones</td>
   </tr>
   <tr>
     <td> <p><strong>Meeting Date</strong>:</td>

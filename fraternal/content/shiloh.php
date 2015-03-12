@@ -9,16 +9,13 @@
   </tr>
   <tr>
 	<td valign="top"><b>Secretary/Treasurer:</b></td>
-	<td>Andrew Baker (Connie) <a
-  href="mailto:andrewbaker761@gmail.com">andrewbaker761@gmail.com</a></td>
+	<td>Andrew Baker (Connie) <a href="mailto:cdx8x@allstate.com">cdx8x@allstate.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
-    <td colspan="2">
-	Meeting Date: 2nd Thursday
-    </td>
+    <td colspan="2">Meeting Date: 2nd Thursday  </td>
   </tr>
 </table>

@@ -2,23 +2,23 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Kevin Ridgeway (Renee)<a href="mailto:ridgeway4203@roadrunner.com">ridgeway4203@roadrunner.com</a></td>
+	<td>Donale "Greg" Hinebaugh <a href="mailto:ghinebaugh@roadrunner.com">ghinebaugh@roadrunner</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Greg Hinebaugh</td>
+	<td>Rowe Garmon <a href="mailto:lindag129@windstream.net">lindag129@windstream.net</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Wesley Broseke (Brenda) <a href="mailto:wes@broseke.com">wes@broseke.com</a></td>
+	<td>Wes Broseke Jr <a href="mailto:wes@broseke.com">wes@broseke.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
-	<td>Timothy Joliff (Suzie) <a href="mailto:plumber@wcoil.com">plumber@wcoil.com</a></td>
+	<td>Tim Joliff <a href="mailto:plumber@w_coil.com">plumber@w_coil.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Ron Leonard</td>
+	<td>Rondney Holdren</td>
   </tr>
   <tr>
     <td colspan="2">
