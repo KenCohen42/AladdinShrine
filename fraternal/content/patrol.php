@@ -4,33 +4,24 @@
  	<td colspan="2"> <img src="/images/patrol1.jpg" alt="patrol"></td>
   </tr>
  <tr>
-  <td>
-  <b>Lieutenant:</b>
-  </td>
-  <td>
-  Matthew Long (Arleen) <a
-  href="mailto:catawbalong@gmail.com">catawbalong@gmail.com</a>
-  </td>
+  <td>  <b>Director:</b>  </td>
+  <td>  Matthew Long (Arleen) <a  href="mailto:catawbalong@gmail.com">catawbalong@gmail.com</a>  </td>
  </tr>
  <tr>
-  <td>
-  <b>Secretary/Treasurer:</b>
-  </td>
-  <td>
-  Mike Clevenger, P.P. (Luanne) <a href="mailto:mdcpa@columbus.rr.com">mdcpa@columbus.rr.com</a>
-  </td>
+  <td>  <b>Assistant Director:</b>  </td>
+  <td>  Leo Stacy (Janet) <a href="mailto:expostac@cs.com">expostac@cs.com </td>
  </tr>
  <tr>
-  <td>
-  <b>Divan Rep:</b>
-  </td>
-  <td>
-  Rodney Holdren
-  </td>
+  <td>  <b>Secretary/Treasurer:</b>  </td>
+  <td> Mike Clevenger, P.P. (Luanne) <a href="mailto:mdcpa@columbus.rr.com">mdcpa@columbus.rr.com</a> </td>
+ </tr>
+ <tr>
+  <td>  <b>Divan Rep:</b> </td>
+  <td> David Wolfe  </td>
  </tr>
   <tr>
     <td colspan="2">
-      Meeting Date: Every Monday 7:30 p.m.<p>
+      Meeting Date: 2nd Monday<p>
 
       To participate in Ceremonials as ritualistic guard. To perform as a drill unit in 
 	  Shrine functions, including parades, Potentate Ball and other functions as directed 

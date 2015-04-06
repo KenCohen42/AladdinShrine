@@ -9,11 +9,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Assistant Director:</b></td>
-	<td>David L. Colburn (Nancy)</td>
+	<td>David L. Colburn (Nancy) <a href="mailto:colburndl@msn.com">colburndl@msn.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Larry Burgess (Colleen) <a href="mailto:ldburg48@aol.com">ldburg48@aol.com</a></td>
+	<td>Karl Schmidt <a href="mailto:pianoman1@columbus.rr.com">pianoman1@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -21,11 +21,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Garol Rogers</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">
-       Meeting Date: Wednesday, 9:30 a.m.<p>
+       Meeting Date: Wednesday<p>
 	   
 	   To provide entertainment for the nobility as the Potentate may direct. Also to 
 	   appear in parades and various Masonic events.

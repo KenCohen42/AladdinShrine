@@ -2,19 +2,19 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>Director:</b></td>
-	<td>Bob Beymer <a href="mailto:rbeymer@gmail.com">rbeymer@gmail.com</a></td>
+	<td>Bob Beymer (Amy) <a href="mailto:rbeymer@gmail.com">rbeymer@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Assistant Director:</b></td>
-	<td>Clay Jones</td>
+	<td>Clay Jones <a href="mailto:clay.jones0920@gmail.com">clay.jones0920@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Chief:</b></td>
-	<td><a href="mailto:aaron.langhirt@gmail.com">aaron.langhirt@gmail.com</a></td>
+	<td>Gene L. Cook (Ruth)<a href="mailto:ccscomputersystems.com">ccscomputersystems.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Dennis D. Feyh (Sue) <a href="mailto:ddf6@hotmail.com">ddf6@hotmail.com</a></td>
+	<td>Mark Froehlich (Patti)<a href="mailto:msfroehlich@msn.com">msfroehlich@msn.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>David Wolfe</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
     <td colspan="2"> Meeting Date: First Tuesday <p>

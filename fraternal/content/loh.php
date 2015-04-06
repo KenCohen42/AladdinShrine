@@ -2,27 +2,31 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>Commander:</b></td>
-	<td>David Ozvat (Lucy) <a href="mailto:dozvat@gmail.com">dozvat@gmail.com</a></td>
+	<td>David W. Quinn, Sr</td>
   </tr>
   <tr>
-	<td valign="top"><b>1st Lt Commander:</b></td>
+	<td valign="top"><b>1st Lt. Commander:</b></td>
+	<td>James C. Keenan (Evelyn)</td>
+  </tr>
+  <tr>
+	<td valign="top"><b>Secretary:</b></td>
+	<td>Jeffrey C. Rader (Karen)</a></td>
+  </tr>
+  <tr>
+	<td valign="top"><b>Adjutant:</b></td>
 	<td>Robert Spencer (Betty Jo) <a href="mailto:robert_betty_spencer@yahoo.com">robert_betty_spencer@yahoo.com</a></td>
   </tr>
-  <tr>
-	<td valign="top"><b>Secretary/Adjutant:</b></td>
-	<td>James Rock <a href="mailto:rockjp@sbcglobal.com">rockjp@sbcglobal.com</a></td>
-  </tr>
-  <tr>
+  <!--tr>
 	<td valign="top"><b>Finance Officer:</b></td>
 	<td>Fred Kreutz (Gail)</td>
-  </tr>
+  </tr-->
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Ron Leonard</td>
+	<td>Jon Kinney</td>
   </tr>
   <tr>
     <td colspan="2">
-	Meeting Date 2nd Monday (Sep - May)<p>
+	Meeting Date 2nd Monday <p>
 	
 	...To serve the Illustrious Potentate of Aladdin Shrine Center as the Color Guard 
 	and participate in Parades, Ceremonials, and other Shrine events as the Potentate 

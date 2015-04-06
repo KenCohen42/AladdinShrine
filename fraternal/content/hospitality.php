@@ -5,7 +5,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Director:</b></td>
-	<td>John Luft (Marie) <a href="mailto:aonegutters@aol.com">aonegutters@aol.com</a></td>
+	<td>John Luft (Marie) <a href="mailto:jpl3998@aol.com">jpl3998@aol.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Assistant Director:</b></td>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Art Wilson</td>
   </tr>
   <tr>
     <td colspan="2">

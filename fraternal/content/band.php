@@ -24,7 +24,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Ron Leonard</td>
+	<td>Jon Kinney</td>
   </tr>
   <tr>
     <td colspan="2"> Meeting Date: Tuesday - Weekly, Sept. - May<p>

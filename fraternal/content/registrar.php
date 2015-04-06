@@ -1,45 +1,23 @@
 <table width="90%">
  <tr>
-  <td>
-  <p class=MsoNormal><b>Director:</b>
-  </td>
-  <td>
-  <p class=MsoNormal>Andrew Baker (Connie) <a href="mailto:cdx8x@allstate.com">cdx8x@allstate.com</a>
-  </td>
+  <td><b>Director:</b></td>
+  <td>Andrew Baker (Connie) <a href="mailto:cdx8x@allstate.com">cdx8x@allstate.com</a> </td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Assistant Director:</b>
-  </td>
-  <td>
-  <p class=MsoNormal>William Bell (Kathy)
-  </td>
+  <td><b>Assistant Director:</b> </td>
+  <td>Craig Lobdell</td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Secretary:</b>
-  </td>
-  <td>
-  <p class=MsoNormal>Scott Gorslene>(Jennifer) <a
-  href="mailto:scottgorslene@hotmail.com">scottgorslene@hotmail.com</a>
-  </td>
+  <td><b>Secretary:</b> </td>
+  <td>Arthur Puetz <a href="mailto:artp67@sbcglobal.net">artp67@sbcglobal.net</a></td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Treasurer:</b>
-  </td>
-  <td>
-  <p class=MsoNormal>Tim Daniel (Annette) <a
-  href="mailto:danielt@columbus.rr.com">danielt@columbus.rr.com</a>
-  </td>
+  <td><b>Treasurer:</b> </td>
+  <td>Tim Daniel (Annette) <a  href="mailto:tjdaniel@worthingtonindustries.com">tjdaniel@worthingtonindustries.com</a>  </td>
  </tr>
  <tr>
-  <td>
-  <p class=MsoNormal><b>Divan Rep:</b>
-  </td>
-  <td>
-  <p class=MsoNormal>Todd Jones
-  </td>
+  <td><b>Divan Rep:</b> </td>
+  <td>Zale Maxwell </td>
  </tr>
  <tr>
   <td colspan=2>

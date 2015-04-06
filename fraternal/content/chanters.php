@@ -6,15 +6,23 @@
   </tr>
   <tr>
 	<td valign="top"><b>Director:</b></td>
-	<td>John B. Iben (Linda) <a href="mailto:john@ohiosemi.com">john@ohiosemi.com</a></td>
+	<td>John B. Iben (Linda) <a href="mailto:johniben@att.net">johniman@att.net</a></td>
+  </tr>
+  <tr>
+	<td valign="top"><b>Assistant Director:</b></td>
+	<td>Danny Clifford (Marsha)<a href="mailto:dannyclifford@sbcglobal.net">dannyclifford@sbcglobal.net</a></td>
+  </tr>
+  <tr>
+	<td valign="top"><b>President:</b></td>
+	<td>Andrew Kalan (Patricia)<a href="mailto:patricia.kalan@sbcglobal.net">patricia.kalan@sbcglobal.net</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Arnold Fuller <a href="mailto:arniefuller@ameritech.net">arniefuller@ameritech.net</a></td>
+	<td>Arnold Fuller (Dixie)<a href="mailto:afuller4@columbus.rr.com">afuller4@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
-	<td>Donald Diurba (Eleanor) </td>
+	<td>Donald Diurba (Eleanor) <a href="mailto:ddiurba1@columbus.rr.com">ddiurba1@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
