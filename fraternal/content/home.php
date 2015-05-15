@@ -55,7 +55,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201503.pdf"><br/>
-      March Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201505.pdf"><br/>
+      May Lamp Now Posted</a> </td>
   </tr>
 </table>
