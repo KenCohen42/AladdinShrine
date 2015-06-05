@@ -100,6 +100,7 @@ window.attachEvent("onload", initsidebarmenu)
   <tr>
 <div class="sidebarmenu">
 <ul id="sidebarmenu1">
+<a href="events.php">UPCOMING FRATERNAL EVENTS</a><br/><br/>
 	    <li><a href="home.php">Home</a></li>
 		<li><a href="lamps.php">Aladdin's Lamp</a></li>
 		<li><a href="ashac.php">ASHAC</a></li>

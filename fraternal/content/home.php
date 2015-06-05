@@ -33,6 +33,14 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+	  <a href="events.php">
+	  <img src="images/events.gif"><br/>
+	  Upcoming Events
+	  </a>
+	</td>
+  </tr>
+  <tr>
     &nbsp;&nbsp;<td><a href="http://smile.amazon.com/ch/31-6027695"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEfb6WgESNqwijfaNcXoZfchXDvjlxf204iNbfAWTt8OxIScspR607Yo" alt="Amazon Smile"><br/>
 	&nbsp;&nbsp;Now: use Amazon Smiles to support ASHAC</a></td>
   </tr>
