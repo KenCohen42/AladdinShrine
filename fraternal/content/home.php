@@ -34,10 +34,20 @@
   </tr>
   <tr>
     <td align="center">
+	  <br/><br/>
 	  <a href="events.php">
-	  <img src="images/events.gif"><br/>
-	  Upcoming Events
+	    <img src="images/events.gif"><br/>
+	    Upcoming Events <br/><br/>
 	  </a>
+	  <table align="center">
+	    <tr>
+		  <td align="center">
+	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball</a>
+	      </td>
+		  <td align="center">
+	  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville</a>
+		  </td>
+		</table>
 	</td>
   </tr>
   <tr>
@@ -63,7 +73,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201505.pdf"><br/>
-      May Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201506.pdf"><br/>
+      June Lamp Now Posted</a> </td>
   </tr>
 </table>
