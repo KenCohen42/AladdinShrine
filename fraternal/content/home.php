@@ -35,17 +35,20 @@
   <tr>
     <td align="center">
 	  <br/><br/>
-	  <a href="events.php">
+	  <!--a href="events.php">
 	    <img src="images/events.gif"><br/>
 	    Upcoming Events <br/><br/>
-	  </a>
+	  </a-->
 	  <table align="center">
 	    <tr>
 		  <td align="center">
-	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball</a>
+	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball<br/>July 20, 2015</a>
 	      </td>
 		  <td align="center">
-	  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville</a>
+	  <a href="events/2015/20150813WoodwardCruise.pdf" target="new"><img src="events/2015/20150813WoodwardCruise.png"><br/>Woodward Dream Cruise<br/>August 13-16, 2015</a>
+		  </td>
+		  <td align="center">
+	  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
 		  </td>
 		</table>
 	</td>
