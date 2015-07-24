@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
 	<td valign="top" align="center">
-<h1 align="center">2013-2014</h1>
+<h1 align="center">2015-2016</h1>
       <h1 align="center">Ohio Shrine Association</h1>
 
 <div align="center">
@@ -11,8 +11,9 @@
   <tr>
     <td>
 
-      <p align="left">The Ohio Shrine Association was organized in 1981. It holds its annual business meeting on the first weekend in March in the home city of
-      the President's Shrine Center.</p>
+            <p align="left">The Ohio Shrine Association was organized in 1981. 
+			  It holds its annual business meeting on the first weekend in March 
+			  in the home city of the President's Shrine Center.</p>
 
             <p align="left">The organization of six Ohio Shrine Centers promotes 
               cordiality and friendship, it harmonizes resolutions of territorial 
@@ -35,50 +36,49 @@
       <h2 align="center">Ohio Shrine Association Officers</h2>
       <h4 align="center">President</h4>
 
-            <p align="center">Gary Blackfordt, P.P.</p>
+            <p align="center">Steve Hathaway, P.P.</p>
 
-            <p align="center"><a href="http://www.geocities.com/shrinecenters/Antioch/">Antioch 
-              Shriners</a>, Dayton, Ohio<br>
+            <p align="center"><a href="http://aladdinshrine.org">Aladdin 
+              Shriners</a>, Columbus, Ohio<br>
       </p>
 
       <h4 align="center">1st Vice President</h4>
 
-            <p align="center">Terry Hamiliton, P.P.</p>
-
-            <p align="center"><a href="http://www.alkoran.org/">Al Koran Shriners</a>, 
-              Broadview Heights, Ohio<br>
-      </p>
-
-      <h4 align="center">2nd Vice President</h4>
-
-            <p align="center">James (Steve) Hathaway, P.P.</p>
-
-      <p align="center"><a href="http://www.aladdinshrine.org/">Aladdin Shriners</a>, Columbus, Ohio<br>
-      </p>
-
-      <h4 align="center">3rd Vice President</h4>
-
-            <p align="center">Fred Robinson, Asst. Rabban</p>
+            <p align="center">Fred Robinson, P.P.</p>
 
       <p align="center"><a href="http://syrianshrine.homepage.com/">Syrian Shriners</a>, Cincinnati, Ohio<br>
       </p>
 
-      <h4 align="center">4th Vice President</h4>
+      <h4 align="center">2nd Vice President</h4>
 
             <p align="center">Robert E. Secoy, P.P.</p>
 
-            <p align="center">Zenobia Shriners, Perrysburg, Ohio<br>
+            <p align="center"><a href="http://www.amplex.net/zenobiashrine/">Zenobia Shriners</a>, Perrysburg, Ohio<br>
       </p>
 
-            <h4 align="center">5th Vice President</h4>
+            <h4 align="center">3rd Vice President</h4>
             <p align="center">Gary DeMoss, P.P.</p>
-            <p align="center">Tadmor Shriners, Akron, Ohio<br>
+            <p align="center"><a href="http://www.tadmorshrine.org/">Tadmor Shriners</a>, Akron, Ohio<br>
             </p>
+
+      <h4 align="center">4th Vice President</h4>
+
+            <p align="center">Scott Lipps, P.P.</p>
+
+            <p align="center"><a href="http://www.antiochshrine.com/">Antioch Shriners</a></a>, 
+              Dayton, Ohio<br>
+      </p>
+
+      <h4 align="center">5th Vice President</h4>
+
+            <p align="center">R. Gordon Hastler, P.P.</p>
+			<p align="center"><a href="http://www.alkoran.org/">Al Koran Shriners</a>, Broadview Heights, OH</p>
+
             <h4 align="center">Secretary - Treasurer</h4>
 
             <p align="center">John (Jack) Connor, P.P.</p>
 
-            <p align="center">Al Koran Shriners, Broadview Heights, Ohio</p>
+            <p align="center"><a href="http://www.alkoran.org/">Al Koran Shriners</a>, Broadview Heights, Ohio</p>
 
       <p>&nbsp;</td>
   </tr>
@@ -118,6 +118,9 @@
     <td align="left">OH</td>
   </tr>
 </table>
+
     </td>
   </tr>
 </table>
+<br/><br/>
+<center><strong>Aladdin Shrine Center 1801 Gateway Circle., Grove City, Ohio 43123</strong></center>

@@ -39,18 +39,6 @@
 	    <img src="images/events.gif"><br/>
 	    Upcoming Events <br/><br/>
 	  </a-->
-	  <table align="center">
-	    <tr>
-		  <td align="center">
-	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball<br/>July 20, 2015</a>
-	      </td>
-		  <td align="center">
-	  <a href="events/2015/20150813WoodwardCruise.pdf" target="new"><img src="events/2015/20150813WoodwardCruise.png"><br/>Woodward Dream Cruise<br/>August 13-16, 2015</a>
-		  </td>
-		  <td align="center">
-	  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
-		  </td>
-		</table>
 	</td>
   </tr>
   <tr>
@@ -66,6 +54,36 @@
        &nbsp;&nbsp;<a href="parade.php">2015 Parade Schedule</a><br/><br/>
       <p>
 	  <hr/>
+	  <table align="center">
+	    <tr>
+		  <td align="center">
+        	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball<br/>July 20, 2015</a>
+	      </td>
+		  <td align="center">
+        	  <a href="events/2015/20150813WoodwardCruise.pdf" target="new"><img src="events/2015/20150813WoodwardCruise.png"><br/>Woodward Dream Cruise<br/>August 13-16, 2015</a>
+		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20150815CornRoastFull.png" target="new"><img src="events/2015/20150815CornRoastThumb.png"><br/>Corn Roast<br/>August 15, 2015</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20150821LastDanceFull.png" target="new"><img src="events/2015/20150821LastDanceThumb.png"><br/>Last Dance<br/>August 21, 2015</a> 
+		  </td>
+		</tr>
+		<tr>
+		  <td align="center">
+	  		  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
+		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20150912CornerstoneFull.png" target="new"><img src="events/2015/20150912Cornerstone.png"><br/>Cornerstone Laying<br/>September 12, 2015</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20150913CarShowFull.png" target="new"><img src="events/2015/20150913CarShowThumb.png"><br/>Last Car Show<br/>September 13, 2015</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
+		  </td>
+		</table>
+	  <hr/>
 	    <!-- Facebook Badge START -->
 		<br/>
 		<a href="http://www.facebook.com/aladdinshrine" 
@@ -76,7 +94,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201506.pdf"><br/>
-      June Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201507.pdf"><br/>
+      July Lamp Now Posted</a> </td>
   </tr>
 </table>
