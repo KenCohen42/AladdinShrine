@@ -47,7 +47,15 @@
   </tr>
   <tr>
     <td>
-	<br/><br/><hr/><br/>
+	<br/><br/>
+      <hr/>
+	  <br><br/>
+	  <h3>How is our Grove City site progressing?</h3>
+	  <a href="grovecity.php"><img src="images/ActiveSlideShow/grovecity/image0.jpg" alt="Front view" width="600"><br/>
+	  Click here to see more pictures</a>
+	  <br/><br/>
+	  <hr/>
+	  <br/><br/>
 	&nbsp;&nbsp;<a href="images/GMEdict20141204.pdf" target="new">Grand Master's Edict Regarding Gambling</a>
 	<br/><br/><hr><br/><br/>
 	<h2>Coming Events</h2>
@@ -57,22 +65,16 @@
 	  <table align="center">
 	    <tr>
 		  <td align="center">
-        	  <a href="events/2015/20150720clippersNight.pdf" target="new"><img src="events/2015/20150720clippersNight.png"><br/>Clippers Baseball<br/>July 20, 2015</a>
-	      </td>
-		  <td align="center">
-        	  <a href="events/2015/20150813WoodwardCruise.pdf" target="new"><img src="events/2015/20150813WoodwardCruise.png"><br/>Woodward Dream Cruise<br/>August 13-16, 2015</a>
-		  </td>
-		  <td align="center">
          	  <a href="events/2015/20150815CornRoastFull.png" target="new"><img src="events/2015/20150815CornRoastThumb.png"><br/>Corn Roast<br/>August 15, 2015</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2015/20150821LastDanceFull.png" target="new"><img src="events/2015/20150821LastDanceThumb.png"><br/>Last Dance<br/>August 21, 2015</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
 	  		  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2015/20150912CornerstoneFull.png" target="new"><img src="events/2015/20150912Cornerstone.png"><br/>Cornerstone Laying<br/>September 12, 2015</a> 
 		  </td>
