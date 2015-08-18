@@ -23,6 +23,28 @@
 	  galleryarray[19] = "image19.jpg";
 	  galleryarray[20] = "image20.jpg";
 	  galleryarray[21] = "image21.jpg";
+	  galleryarray[22] = "image22.jpg";
+	  galleryarray[23] = "image23.jpg";
+	  galleryarray[24] = "image24.jpg";
+	  galleryarray[25] = "image25.jpg";
+	  galleryarray[26] = "image26.jpg";
+	  galleryarray[27] = "image27.jpg";
+	  galleryarray[28] = "image28.jpg";
+	  galleryarray[29] = "image29.jpg";
+	  galleryarray[30] = "image30.jpg";
+	  galleryarray[31] = "image31.jpg";
+	  galleryarray[32] = "image32.jpg";
+	  galleryarray[33] = "image33.jpg";
+	  galleryarray[34] = "image34.jpg";
+	  galleryarray[35] = "image35.jpg";
+	  galleryarray[36] = "image36.jpg";
+	  galleryarray[37] = "image37.jpg";
+	  galleryarray[38] = "image38.jpg";
+	  galleryarray[39] = "image39.jpg";
+	  galleryarray[40] = "image40.jpg";
+	  galleryarray[41] = "image41.jpg";
+	  galleryarray[42] = "image42.jpg";
+	  galleryarray[43] = "image43.jpg";
 	  var curimg=0;
 	  function rotateImages(){
 	     document.getElementById("slideshow").setAttribute("src", "images/ActiveSlideShow/grovecity/"+galleryarray[curimg]);
@@ -48,31 +70,7 @@
   </tr>
   <tr>
     <td>
-      <h4>These images are in the slideshow above</h4>
-	  <h2>August 3, 2015</h2>
-	  <a href="images/grovecity/2015-08-03/East end building.jpg">East end of Building</a><br>
-	  <a href="images/grovecity/2015-08-03/East end view.jpg">East end view</a><br>
-	  <a href="images/grovecity/2015-08-03/East lot.jpg">East lot</a><br>
-	  <a href="images/grovecity/2015-08-03/Front of building 8-3-2015.jpg">Front of building</a><br>
-	  <a href="images/grovecity/2015-08-03/Storage Shed 8-3-2015.jpg">Storage Shed</a><br>
-	  <a href="images/grovecity/2015-08-03/West end 2.jpg">West end 2</a><br>
-	  <a href="images/grovecity/2015-08-03/West end of buildingjpg">West end of building</a><br>
-	  <h2>August 9, 2015</h2>
-	  <a href="images/grovecity/2015-08-09/image01.jpg">image01</a><br>
-	  <a href="images/grovecity/2015-08-09/image02.jpg">image02</a><br>
-	  <a href="images/grovecity/2015-08-09/image03.jpg">image03</a><br>
-	  <a href="images/grovecity/2015-08-09/image04.jpg">image04</a><br>
-	  <a href="images/grovecity/2015-08-09/image05.jpg">image05</a><br>
-	  <a href="images/grovecity/2015-08-09/image06.jpg">image06</a><br>
-	  <a href="images/grovecity/2015-08-09/image07.jpg">image07</a><br>
-	  <a href="images/grovecity/2015-08-09/image08.jpg">image08</a><br>
-	  <a href="images/grovecity/2015-08-09/image09.jpg">image09</a><br>
-	  <a href="images/grovecity/2015-08-09/image10.jpg">image10</a><br>
-	  <a href="images/grovecity/2015-08-09/image11.jpg">image11</a><br>
-	  <a href="images/grovecity/2015-08-09/image12.jpg">image12</a><br>
-	  <a href="images/grovecity/2015-08-09/image13.jpg">image13</a><br>
-	  <a href="images/grovecity/2015-08-09/image14.jpg">image14</a><br>
-	  <a href="images/grovecity/2015-08-09/image15.jpg">image15</a><br>
+       <a href="http://aladdinshrine.org/phpAlbum/main.php?cmd=album&var1=GroveCity/">View the pictures in an album</a>
 	</td>
   </tr>
   
