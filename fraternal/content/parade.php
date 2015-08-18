@@ -6,19 +6,6 @@
     <th>Parade</th><th>Date</th><th>Line Up</th><th>Step Off</th>
   </tr>
   <tr>
-    <td>Pike County Dogwood Parade</td><td>4/27</td><td>2:00 p.m.</td><td>3:00 p.m.</td>
-  </tr>
-  <tr>
-    <td>Worthington Memorial Day</td><td>5/26</td><td>9:00 a.m.</td><td>10:00 a.m.</td>
-  </tr>
-  <tr>
-    <td>Imperial Parade</td><td>7/7</td><td>&nbsp;</td><td>6:00 p.m.</td>
-  </tr>
-  <tr>
-    <td>
-Baltimore Parade</td><td>8/9</td><td>9:30 a.m.</td><td>10:30 a.m.</td>
-  </tr>
-  <tr>
     <td>
 Bucyrus Parade</td><td>8/15</td><td>6:00 p.m.</td><td>7:00 p.m.</td>
   </tr>
@@ -28,7 +15,7 @@ Grove City Parade</td><td>9/19</td><td>8:30 a.m.</td><td>9:30 a.m.</td>
   </tr>
   <tr>
     <td>
-Jackson Apple Fesival</td><td>9/19</td><td>6:45 p.m.</td><td>7:45 p.m.</td>
+Jackson Apple Fesival</td><td>9/26</td><td>6:45 p.m.</td><td>7:45 p.m.</td>
   </tr>
   <tr>
     <td>

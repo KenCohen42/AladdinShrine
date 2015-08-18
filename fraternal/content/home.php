@@ -6,7 +6,7 @@
 	  galleryarray[2] = "slide2.jpg";
 	  galleryarray[3] = "slide3.jpg";
 	  galleryarray[4] = "slide4.jpg";
-	  galleryarray[5] = "slide5jpg";
+	  galleryarray[5] = "slide5.jpg";
 	  galleryarray[6] = "slide6.jpg";
 	  var curimg=0;
 	  function rotateImages(){
@@ -63,15 +63,14 @@
       <p>
 	  <hr/>
 	  <table align="center">
-	    <tr>
-		  <td align="center">
-         	  <a href="events/2015/20150815CornRoastFull.png" target="new"><img src="events/2015/20150815CornRoastThumb.png"><br/>Corn Roast<br/>August 15, 2015</a> 
-		  </td>
 		  <td align="center">
          	  <a href="events/2015/20150821LastDanceFull.png" target="new"><img src="events/2015/20150821LastDanceThumb.png"><br/>Last Dance<br/>August 21, 2015</a> 
 		  </td>
 		  <td align="center">
-	  		  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadies.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
+         	  <a href="events/2015/20150828CincyHospitalFull.png" target="new"><img src="events/2015/20150828CincyHospitalThumb.png"><br/>Cincinnati Hospital Open House<br/>August 28-29, 2015</a> 
+		  </td>
+		  <td align="center">
+	  		  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadiesThumb.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
 		  </td>
 		</tr>
 		<tr>
@@ -82,7 +81,23 @@
          	  <a href="events/2015/20150913CarShowFull.png" target="new"><img src="events/2015/20150913CarShowThumb.png"><br/>Last Car Show<br/>September 13, 2015</a> 
 		  </td>
 		  <td align="center">
+         	  <a href="events/2015/20151003CeremonialFull.png" target="new"><img src="events/2015/20151003CeremonialThumb.png"><br/>Fall Ceremonial<br/>October 3, 2015</a> 
+		  </td>
+		</tr>
+		<tr>
+		  <td align="center">
+         	  <a href="events/2015/20151017AuctionFull.png" target="new"><img src="events/2015/20151017AuctionThumb.png"><br/>Auction<br/>October 17, 2015</a> 
+		  </td>
+		  <td align="center">
          	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
+		  </td>
+		</tr>
+		<tr>
+		  <td align="center">
+         	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
 		</table>
 	  <hr/>
@@ -96,7 +111,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201507.pdf"><br/>
-      July Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201508.pdf"><br/>
+      August Lamp Now Posted</a> </td>
   </tr>
 </table>
