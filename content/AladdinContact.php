@@ -6,7 +6,8 @@
 		v 614.475.2609<br/>
 		f 614.475.0052<br/>
 		toll-free 800.475.3850<p>
-		<strong>Business Development</strong><br/>
+
+		<!--strong>Business Development</strong><br/>
 		<a href="mailto:teisleben@aladdinshrine.org">Ted Eisleben</a><br/>
 		v 614.475.2609 ext 102<br/>
 		teisleben@aladdinshrine.org<p>

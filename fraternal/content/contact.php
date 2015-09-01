@@ -21,12 +21,12 @@
     <td><a href="mailto:cdennewitz@aladdinshrine.org">cdennewitz@aladdinshrine.org</a></td>
     <td>ext. 110</td>
   </tr>
-  <tr> 
+  <!--tr> 
     <td>Ted Eisleben</td>
     <td>Fraternal Administrator</td>
     <td><a href="mailto:teisleben@aladdinshrine.org">teisleben@aladdinshrine.org</a></td>
     <td>ext. 102</td>
-  </tr>
+  </tr-->
   <tr> 
     <td>Kim Luckeydoo</td>
     <td>Circus, ASHAC and Shrine Hospital Contact</td>

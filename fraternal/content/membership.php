@@ -21,10 +21,11 @@
 </center>
 
 <h2>Petitions</h2>
-	  <a href="forms/2015NewMemberPetition.docx" target="_blank">New Petition (WORD)</a><br/>
+	  <a href="forms/2015AugustNewMemberPetition.docx" target="_blank">New Petition (WORD)</a><br/>
       <a href="forms/2015RestorationPetition.docx" target="_blank">Petition for Restoration (WORD)</a><br/>
       <a href="forms/2015Affiliation.docx" target="_blank">Petition for Affiliation (WORD)</a><br/>
-      <a href="forms/2014Associate.docx" target="_blank">Petition for Associate Membership (WORD)</a><br/>
+      <a href="forms/2014Associate.docx" target="_blank">Petition for Associate Membership (WORD)</a><br/><br/>
+	  <a href="forms/lifemembership.pdf" target="_blank">Life Membership (PDF - print and fill in)</a><br/>
 
 </div>
 

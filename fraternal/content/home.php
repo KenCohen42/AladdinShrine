@@ -64,17 +64,6 @@
 	  <hr/>
 	  <table align="center">
 		  <td align="center">
-         	  <a href="events/2015/20150821LastDanceFull.png" target="new"><img src="events/2015/20150821LastDanceThumb.png"><br/>Last Dance<br/>August 21, 2015</a> 
-		  </td>
-		  <td align="center">
-         	  <a href="events/2015/20150828CincyHospitalFull.png" target="new"><img src="events/2015/20150828CincyHospitalThumb.png"><br/>Cincinnati Hospital Open House<br/>August 28-29, 2015</a> 
-		  </td>
-		  <td align="center">
-	  		  <a href="events/2015/20150828louisvilleLadies.pdf" target="new"><img src="events/2015/20150828louisvilleLadiesThumb.png"><br/>Ladies Trip to Louisville<br/>August 28-30, 2015</a>
-		  </td>
-		</tr>
-		<tr>
-		  <td align="center">
          	  <a href="events/2015/20150912CornerstoneFull.png" target="new"><img src="events/2015/20150912Cornerstone.png"><br/>Cornerstone Laying<br/>September 12, 2015</a> 
 		  </td>
 		  <td align="center">
@@ -91,14 +80,18 @@
 		  <td align="center">
          	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
 		  </td>
+		  <td align="center">
+         	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
+		  </td>
 		</tr>
 		<tr>
 		  <td align="center">
-         	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
+         	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
+		  <td>&nbsp;</td>
 		</table>
 	  <hr/>
 	    <!-- Facebook Badge START -->
@@ -111,7 +104,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201508.pdf"><br/>
-      August Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201509.pdf"><br/>
+      September Lamp Now Posted</a> </td>
   </tr>
 </table>
