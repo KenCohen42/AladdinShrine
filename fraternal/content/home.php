@@ -64,27 +64,19 @@
 	  <hr/>
 	  <table align="center">
 		  <td align="center">
-         	  <a href="events/2015/20150912CornerstoneFull.png" target="new"><img src="events/2015/20150912Cornerstone.png"><br/>Cornerstone Laying<br/>September 12, 2015</a> 
-		  </td>
-		  <td align="center">
-         	  <a href="events/2015/20150913CarShowFull.png" target="new"><img src="events/2015/20150913CarShowThumb.png"><br/>Last Car Show<br/>September 13, 2015</a> 
-		  </td>
-		  <td align="center">
          	  <a href="events/2015/20151003CeremonialFull.png" target="new"><img src="events/2015/20151003CeremonialThumb.png"><br/>Fall Ceremonial<br/>October 3, 2015</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2015/20151017AuctionFull.png" target="new"><img src="events/2015/20151017AuctionThumb.png"><br/>Auction<br/>October 17, 2015</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
