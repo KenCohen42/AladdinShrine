@@ -97,7 +97,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201509.pdf"><br/>
-      September Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201510.pdf"><br/>
+      October Lamp Now Posted</a> </td>
   </tr>
 </table>
