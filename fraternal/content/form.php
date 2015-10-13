@@ -18,10 +18,10 @@
 		<a href="forms/2015FinancialReport.pdf">PDF</a><br/><br/>
 		
       <h2>Directory Forms</h2>
-      Unit Directory Form 
+      Unit Directory Form (UPDATED FOR 2016)
         <a href="forms/unitInformationForm.doc" target="_blank">Word</a>
         <a href="forms/unitInformationForm.pdf" target="_blank">PDF</a><br/><br/>
-      Club Directory Form 
+      Club Directory Form (UPDATED FOR 2016)
         <a href="forms/clubInformationForm.doc" target="_blank">Word</a>
         <a href="forms/clubInformationForm.pdf" target="_blank">PDF</a><br/><br/>
       <h2>ASHAC Application</h2>
