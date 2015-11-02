@@ -15,10 +15,10 @@
 </table>
 
   		</td>
-		<td align="center" valign="top"  align="center" width="100%">
+		<!--td align="center" valign="top"  align="center" width="100%">
 		   <img src="images/NewAladdinShrine.png">
            <h1>
 		       <font color="#990000" size="5">EVENT &amp; CONFERENCE CENTER</font></h1>
-		</td>
+		</td-->
 	  </tr>
     </table>

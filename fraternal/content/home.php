@@ -66,27 +66,22 @@
 	  <table align="center">
 	    <tr>
 		  <td align="center">
-         	  <a href="events/2015/20151017AuctionFull.png" target="new"><img src="events/2015/20151017AuctionThumb.png"><br/>Auction<br/>October 17, 2015</a> 
-		  </td>
-		  <td align="center">
          	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2015/20151213ChristmasFull.png" target="new"><img src="events/2015/20151213ChristmasThumb.png"><br/>Kids' Christmas Party<br/>December 13, 2015</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
 		  </td>
@@ -103,7 +98,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201510.pdf"><br/>
-      October Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201511.pdf"><br/>
+      November Lamp Now Posted</a> </td>
   </tr>
 </table>

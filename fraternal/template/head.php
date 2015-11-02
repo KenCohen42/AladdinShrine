@@ -7,8 +7,8 @@
 	  <img src="images/NewAladdinShriners.png">
    </td>
    <td width="200" align="center" valign="middle" bgcolor="#660000">
-     <a href="http://aladdineventcenter.com/home.php"><img border="0" src="images/logo.png" alt="Conf Center" width="150"></a><br/>
-     <a href="http://aladdineventcenter.com/home.php">Aladdin Event Center Rentals</a>
+     <!--a href="http://aladdineventcenter.com/home.php"><img border="0" src="images/logo.png" alt="Conf Center" width="150"></a><br/>
+     <a href="http://aladdineventcenter.com/home.php">Aladdin Event Center Rentals</a-->&nbsp;
    </td>
   </tr>
 </table>
