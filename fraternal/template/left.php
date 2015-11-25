@@ -100,7 +100,7 @@ window.attachEvent("onload", initsidebarmenu)
   <tr>
 <div class="sidebarmenu">
 <ul id="sidebarmenu1">
-<a href="events.php">UPCOMING FRATERNAL EVENTS</a><br/><br/>
+<!--a href="events.php">UPCOMING FRATERNAL EVENTS</a><br/><br/-->
 	    <li><a href="home.php">Home</a></li>
 		<li><a href="lamps.php">Aladdin's Lamp</a></li>
 		<li><a href="ashac.php">ASHAC</a></li>
@@ -146,9 +146,9 @@ window.attachEvent("onload", initsidebarmenu)
 		<a href="http://www.shrinersvillage.com"><img src="images/ShrinersVillage.jpg" width="150" alt="Shriners Village"></a>
 		<br/>
         <br/>
-	  <a href="http://aladdineventcenter.com/home.php"><img src="images/logo.png" alt="Conf Center" width="150"><br/>
+	  <!--a href="http://aladdineventcenter.com/home.php"><img src="images/logo.png" alt="Conf Center" width="150"><br/>
 	                                                   Building Rentals
-	  </a>
+	  </a-->
 	</td>
   </tr>
 </table>
