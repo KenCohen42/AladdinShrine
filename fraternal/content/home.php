@@ -60,16 +60,16 @@
 	&nbsp;&nbsp;<a href="images/GMEdict20141204.pdf" target="new">Grand Master's Edict Regarding Gambling</a>
 	<br/><br/><hr><br/><br/>
 	<h2>Coming Events</h2>
-       &nbsp;&nbsp;<a href="parade.php">2015 Parade Schedule</a><br/><br/>
+       &nbsp;&nbsp;<!--a href="parade.php">2015 Parade Schedule</a><br/><br/-->
       <p>
 	  <hr/>
 	  <table align="center">
 	    <tr>
 		  <td align="center">
-         	  <a href="events/2015/20151124NYCFull.png" target="new"><img src="events/2015/20151124NYCThumb.png"><br/>NYC Macy Parade<br/>November 24-28, 2015</a> 
+         	  <a href="events/2015/20151213ChristmasFull.png" target="new"><img src="events/2015/20151213ChristmasThumb.png"><br/>Kids' Christmas Party<br/>December 13, 2015</a> 
 		  </td>
 		  <td align="center">
-         	  <a href="events/2015/20151213ChristmasFull.png" target="new"><img src="events/2015/20151213ChristmasThumb.png"><br/>Kids' Christmas Party<br/>December 13, 2015</a> 
+         	  <a href="events/2015/20151221ElectionsFull.png" target="new"><img src="events/2015/20151221ElectionsThumb.png"><br/>Annual Meeting and Elections<br/>December 21, 2015</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2015/20151231MonteCarloFull.png" target="new"><img src="events/2015/20151231MonteCarloThumb.png"><br/>New Years Eve/Monte Carlo Night<br/>December 31, 2015</a> 
@@ -77,10 +77,29 @@
 		</tr>
 		<tr>
 		  <td align="center">
+         	  <a href="events/2016/20160109InstallationFull.png" target="new"><img src="events/2016/20160109InstallationThumb.png"><br/>Leadership Seminar &amp; Installation<br/>January 9, 2016</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2016/20160123FootballFull.png" target="new"><img src="events/2016/20160123FootballThumb.png"><br/>East West Shrine Game<br/>January 23, 2016</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2016/20160213ValentineFull.png" target="new"><img src="events/2016/20160213ValentineThumb.png"><br/>Valentines Dance<br/>February 12, 2016</a> 
+		  </td>
+		</tr>
+		<tr>
+		  <td align="center">
          	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
 		  <td align="center">
+         	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 20-14, 2016</a> 
+		  </td>
+		  <td align="center">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
+		  </td>
+		</tr>
+		<tr>
+		  <td align="center">
+         	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
@@ -98,7 +117,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201511.pdf"><br/>
-      November Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201512.pdf"><br/>
+      December Lamp Now Posted</a> </td>
   </tr>
 </table>
