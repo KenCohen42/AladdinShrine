@@ -21,7 +21,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Zale Maxwell</td>
+	<td>Art Wilson</td>
   </tr>
   <tr>
     <td colspan="2">

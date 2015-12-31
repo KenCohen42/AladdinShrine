@@ -2,18 +2,18 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>Commander:</b></td>
-	<td>David W. Quinn, Sr</td>
+	<td>Michael Tyne, P.P.</td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Lt. Commander:</b></td>
-	<td>James C. Keenan (Evelyn)</td>
+	<td>Robert Ferrell (Deb)</td>
   </tr>
-  <tr>
+  <!--tr>
 	<td valign="top"><b>Secretary:</b></td>
 	<td>Jeffrey C. Rader (Karen)</a></td>
-  </tr>
+  </tr-->
   <tr>
-	<td valign="top"><b>Adjutant:</b></td>
+	<td valign="top"><b>Adjutant/Treasurer:</b></td>
 	<td>Robert Spencer (Betty Jo) <a href="mailto:robert_betty_spencer@yahoo.com">robert_betty_spencer@yahoo.com</a></td>
   </tr>
   <!--tr>
@@ -22,7 +22,7 @@
   </tr-->
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Roscoe Smith</td>
   </tr>
   <tr>
     <td colspan="2">

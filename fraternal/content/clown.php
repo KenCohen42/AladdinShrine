@@ -2,11 +2,11 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>Director:</b></td>
-	<td>Matthew Knight (Andi) <a href="mailto:matthew.knight@basf.com">matthew.knight@basf.com</a></td>
+	<td>Greg Osborne (Jennifer Norris) <a href="mailto:gaosborne@gmail.com">gaosborne@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Assistant Director:</b></td>
-	<td>Greg Osborne (Jennifer Norris) <a href="mailto:gaosborne@gmail.com">gaosborne@gmail.com</a></td>
+	<td>Don Tootle (Barbara) <a href="mailto:dontootle@wowway.com">dontootle@wowway.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Rodney Holdren</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

@@ -12,7 +12,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Assistant Director:</b></td>
-	<td>Dave Colburn <a href="mailto:colburndl@msn.com">colburndl@msn.com</a></td>
+	<td>Dave Colburn <a href="mailto:colburn1@msn.com">colburndl@msn.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
     <td colspan="2"> Meeting Date: Tuesday - Weekly, Sept. - May<p>

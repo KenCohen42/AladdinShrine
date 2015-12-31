@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

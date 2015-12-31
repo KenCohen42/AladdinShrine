@@ -14,7 +14,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Mark Froehlich (Patti)<a href="mailto:msfroehlich@msn.com">msfroehlich@msn.com</a></td>
+	<td>Lloyd Cohen (Debra)<a href="mailto:lcohen@lloydcohen.com">lcohen@lloydcohen.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Rodney Holdren</td>
   </tr>
   <tr>
     <td colspan="2"> Meeting Date: First Tuesday <p>

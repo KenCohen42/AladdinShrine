@@ -19,7 +19,7 @@
  </tr>
  <tr>
   <td>  <b>Divan Rep:</b>  </td>
-  <td>  Dave Wolfe </td>
+  <td> Roscoe Smith </td>
  </tr>
   <tr>
     <td colspan=2>
