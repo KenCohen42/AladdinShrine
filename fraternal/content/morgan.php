@@ -2,15 +2,15 @@
 <table width="90%">
  <tr>
   <td> <b>President:</b> </td>
-  <td> Bruce L. Brock <a href="mailto:bbrock3182@gmail.com"></a> </td>
+  <td> Bruce L. Brock <a href="mailto:bbrock3182@gmail.com">bbrock3182@gmail.com</a> </td>
  </tr>
  <tr>
   <td> <b>1st Vice President:</b> </td>
-  <td> Mike West (Becky) <a href="mailto:mikedwest69@gmail.com">mikedwest69@gmail.com</a></td>
+  <td> Mike West (Becky) <a href="mailto:mikewest69@gmail.com">mikewest69@gmail.com</a></td>
  </tr>
  <tr>
   <td> <b>Secretary:</b> </td>
-  <td> Jim Miller (Cheryl) <a href="mailto:millercentury21@embarqmail.com">millercentury21@embarqmail.com</a></td>
+  <td> Bruce Dearinger <a href="mailto:bruce.dearinger@gmail.com">bruce.dearinger@gmail.com</a></td>
  </tr>
  <tr>
   <td> <b>Treasurer:</b> </td>
@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Zale Maxwell </td>
+  <td> Rodney Holdren </td>
  </tr>
  <tr>
   <td colspan="2">  Meeting Date: 3rd Thursday  </td>

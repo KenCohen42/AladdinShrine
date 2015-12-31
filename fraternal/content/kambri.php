@@ -2,7 +2,7 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Timothy Oliver (Kim)</td>
+	<td>Joel Weekley <a href="mailto:joel.weekley@yahoo.com">joel.weekley@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

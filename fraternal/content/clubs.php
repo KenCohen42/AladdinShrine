@@ -150,7 +150,7 @@ function MM_swapImage() { //v3.0
     <!--td><a href="nexgen.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nexgen','','images/button/nexgenRoll.png',1)"><img name="nexgen" border="0" src="images/button/nexgen.png" alt="NexGen"></a></td-->
     <td><a href="northeast.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('northeast','','images/button/northeastRoll.png',1)"><img name="northeast" border="0" src="images/button/northeast.png" alt="Northeast Shrine Club"></a></td>
     <!--td><a href="northwest.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('northwest','','images/button/northwestRoll.png',1)"><img name="northwest" border="0" src="images/button/northwest.png" alt="Northwest/Tri-Village Shrine Club"></a></td-->
-    <td><a href="http://aladdinshrinephotographyclub.org" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('photography','','images/button/photographyRoll.png',1)"><img name="photography" border="0" src="images/button/photography.png" alt="Aladdin Shrine Photography Club"></a></td>
+    <td><a href="photoclub.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('photography','','images/button/photographyRoll.png',1)"><img name="photography" border="0" src="images/button/photography.png" alt="Aladdin Shrine Photography Club"></a></td>
   </tr>
   <tr>
     <td><a href="pickaway.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pickaway','','images/button/pickawayRoll.png',1)"><img name="pickaway" border="0" src="images/button/pickaway.png" alt="Pickaway Shrine Club"></a></td>

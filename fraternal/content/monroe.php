@@ -10,7 +10,7 @@
  </tr>
  <tr>
   <td> <b>Secretary:</b> </td>
-  <td> Joe Juff (Chris) </td>
+  <td> Joe Huff (Chris) </td>
  </tr>
  <tr>
    <td><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Rodney Holdren </td>
+  <td> Art Wilson</td>
  </tr>
  <tr>
   <td colspan="2"> Meeting Date: 2nd Tuesday  </td>

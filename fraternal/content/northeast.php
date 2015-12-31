@@ -1,12 +1,12 @@
 <center><h2>North East Shrine Club</h2></center>
 <table width="90%" border="1" cellpadding="5" cellspacing="5">
  <tr>
-    <td> <b>President:</b> </td>
-  <td> Tim Jones (Lynn) <a href="mailto:tim.lynn2656@att.net">tim.lynn2656@att.net</a> </td>
+  <td> <b>President:</b> </td>
+    <td> Calvin Smith (Terry) <a href="mailto:cmsmith38@gmail.com">cmsmith38@gmail.com</a> </td>
  </tr>
  <tr>
     <td> <b>1st Vice President:</b> </td>
-    <td> Calvin Smith (Terry) <a href="mailto:cmsmith38@gmail.com">cmsmith38@gmail.com</a> </td>
+    <td>Jeff Kopp (Donna) <a href="mailto:ckopp@columbus.rr.com">ckopp@columbus.rr.com</a></td>
  </tr>
  <tr>
   <td> <b>Secretary:</b> </td>
@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-    <td> Jon Kinney</td>
+    <td> Todd Jones</td>
  </tr>  
  <tr>
     <td colspan="2">Meeting Date: 3rd Friday   </td>

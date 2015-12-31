@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Michael D. Martin (Nancy) </td>
+	<td>Philip R. Miller <a href="mailto:prpardm@ameritech.net">prpardm@ameritech.net</a> </td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Phillip R. Miller</td>
+	<td>Ronald V. Biltz <a href="mailto:ronaldbiltz@yahoo.com">ronaldbiltz@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Ronald Blitz (Emily Eubank)</td>
+	<td>David Ray (Norma) </td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Zale Maxwell</td>
+	<td>Rodney Holdren</td>
   </tr>
   <tr>
     <td colspan="2">

@@ -2,11 +2,11 @@
 <table width="90%">
  <tr>
   <td> <b>President:</b> </td>
-  <td> Jeffrey Grubbs <a href="mailto:sound2nv@yahoo.com">sound2nv@yahoo.com</a> </td>
+  <td> Warren Hull (Janet) <a href="mailto:wjh9999@aol.com">wjh9999@aol.com</a> </td>
  </tr>
  <tr>
   <td> <b>1st Vice President:</b> </td>
-  <td> Warren Hull (Janet) <a href="mailto:wjh9999@aol.com">wjh9999@aol.com</a> </td>
+  <td> Charlie Calendar (Kandy) <a href="charlescallender@columbus.rr.com">charlescallender@columbus.rr.com</a></td>
  </tr>
  <tr>
   <td> <b>Secretary/Treasurer:</b> </td>
@@ -14,7 +14,7 @@
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Art Wilson </td>
+  <td>Todd Jones</td>
  </tr>
  <tr>
   <td colspan="2"> Meeting Date: 2nd Thursday  </td>

@@ -2,11 +2,11 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Steve Rine <a href="mailto:stevenrine@yahoo.com">stevenrine@yahoo.com</a></td>
+	<td>Terry Woltz (Crystal) <a href="mailto:crystalwoltz@gmail.com">crystalwoltz@gmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Terry Woltz (Crystal)</td>
+	<td>Jim Copenhaver (Mary) <a href="mailto:jim.copenhaver@yahoo.com">jim.copenhaver@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -14,13 +14,13 @@
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
-	<td>Rich Aldridge (Susan) <a href="mailto:raaldridge8@gmail.com">raaldridge8@gmail.com</a></td>
+	<td>Josh McKee (Angela) <!--a href="mailto:raaldridge8@gmail.com">raaldridge8@gmail.com</a--></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Art Wilson</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
-    <td colspan="2"> Meeting Date: 4th Wednesday except July and August</td>
+    <td colspan="2"> Meeting Date: 4th Wednesday</td>
   </tr>
 </table>

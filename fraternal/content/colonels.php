@@ -6,7 +6,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Aaron C. Dominey (Judi) <a href="mailto:acdominey@gmail.com">acdominey@gmail.com</a></td>
+	<td>Gary Shoemaker (Donna) <a href="mailto:gshoemak@columbus.rr.com">gshoemak@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

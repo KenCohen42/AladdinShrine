@@ -2,11 +2,11 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Donale "Greg" Hinebaugh <a href="mailto:ghinebaugh@roadrunner.com">ghinebaugh@roadrunner</a></td>
+	<td>Rowe Garmon (Linda) <a href="mailto:lindag129@windstream.net">lindag129@windstream.net</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Rowe Garmon <a href="mailto:lindag129@windstream.net">lindag129@windstream.net</a></td>
+	<td>Chad Heydinger (Tasha) <a href="mailto:chadheydinger@hotmail.com">chadheydinger@hotmail.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -14,11 +14,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
-	<td>Tim Joliff <a href="mailto:plumber@w_coil.com">plumber@w_coil.com</a></td>
+	<td>Kevin Ridgeway (Renee)<a href="mailto:ridgeway4203@roadrunner.com">ridgeway4203@roadrunner.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Rondney Holdren</td>
+	<td>Roscoe Smith</td>
   </tr>
   <tr>
     <td colspan="2">
