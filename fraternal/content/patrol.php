@@ -9,7 +9,7 @@
  </tr>
  <tr>
   <td>  <b>Assistant Director:</b>  </td>
-  <td>  Leo Stacy (Janet) <a href="mailto:expostac@cs.com">expostac@cs.com </td>
+  <td>  Leo Stacy (Janet) <a href="mailto:expostac@cs.com">expostac@cs.com</a> </td>
  </tr>
  <tr>
   <td>  <b>Secretary/Treasurer:</b>  </td>
@@ -17,11 +17,11 @@
  </tr>
  <tr>
   <td>  <b>Divan Rep:</b> </td>
-  <td> David Wolfe  </td>
+  <td> Art Wilson  </td>
  </tr>
   <tr>
     <td colspan="2">
-      Meeting Date: 2nd Monday<p>
+      Meeting Date: <p>
 
       To participate in Ceremonials as ritualistic guard. To perform as a drill unit in 
 	  Shrine functions, including parades, Potentate Ball and other functions as directed 

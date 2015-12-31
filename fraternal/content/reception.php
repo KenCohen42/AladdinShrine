@@ -3,21 +3,21 @@
   <td><b>Director:</b>  </td>
   <td>John W. Bonn (Donna) <a href="mailto:johnbonn@vjsystems-llc.com">johnbonn@vjsystems-llc.com</a> </td>
  </tr>
- <tr>
+ <!--tr>
   <td><b>Assistant Director:</b> </td>
   <td>Steve J. Russo (Linda)   </td>
- </tr>
+ </tr-->
  <tr>
   <td><b>Secretary:</b> </td>
-  <td>Don Owens (Joyce) <a href="mailto:snewo33@gmail.com">snewo33@gmail.com</a>  </td>
+  <td>Donald H. Owens (Joyce) <a href="mailto:snewo33@gmail.com">snewo33@gmail.com</a>  </td>
  </tr>
  <tr>
   <td><b>Treasurer:</b> </td>
-  <td>Michael Johnson (Nedra) <a href="mailto:mjohnson009@columbus.rr.com">mjohnson009@columbus.rr.com</a> </td>
+  <td>Michael Johnson (Nedra) <a href="mailto:mjohniron@columbus.rr.com">mjohniron@columbus.rr.com</a> </td>
  </tr>
  <tr>
   <td><b>Divan Rep:</b>  </td>
-  <td>Todd Jones </td>
+  <td>Roscoe Smith </td>
  </tr>
  <tr>
   <td colspan=2>Meeting Date: Third Thursday

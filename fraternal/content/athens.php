@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Charlie Adkins (Vicky)<a href="mailto:voteadkins@yahoo.com">voteadkins@yahoo.com</a></td>
-  </tr>
-  <tr>
-	<td valign="top"><b>1st Vice President:</b></td>
 	<td>Scott Brooks (Gwenette) <a href="mailto:scottbrooks75@gmail.com">scottbrooks75@gmail.com</a> </td>
   </tr>
   <tr>
+	<td valign="top"><b>1st Vice President:</b></td>
+	<td>Pete D. Moore <a href="mailto:petemoore69@yahoo.com">petemoore69@yahoo.com</a> </td>
+  </tr>
+  <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Jeffrey Linscott (Paula) <a href="mailto:besthelo@aol.com">besthelo@aol.com</a></td>
+	<td>Jeff Linscott (Paula) <a href="mailto:besthelo@aol.com">besthelo@aol.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Art Wilson</td>
+	<td>Todd Jones</td>
   </tr>
   <tr>
     <td colspan="2">

@@ -2,7 +2,7 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Ken Powell (Charlotte)</td>
+	<td>Kenny Powell (Charlotte)</td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

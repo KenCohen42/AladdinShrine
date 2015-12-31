@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Dan E Stainbrook II, PP (Ann) <a href="mailto:30cnutz@gmail.com">30cnutz@gmail.com</a></td>
+	<td>W. Gary Parks P.P. (Betty) <a href="mailto:dd8z7n@yahoo.com">dd8z7n@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Stephen E. Manion (Judy)<a href="mailto:smanion@sbcglobal.net">smanion@sbcglobal.net</a></td>
+	<td>Jack W. VanGundy (Jane)<a href="mailto:vangundy2@columbus.rr.com">vangundy2@columbus.rr.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Dan E Stainbrook II, PP (Ann) <a href="mailto:30cnutz@gmail.com">30cnutz@gmail.com</a></td>
+	<td>Bill Ross (Mary) <a href="mailto:wross@ecr.net">wross@ecr.net</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Rodney Holdren</td>
+	<td>Jon Kinney</td>
   </tr>
   <tr>
     <td colspan="2">

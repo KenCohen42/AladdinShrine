@@ -2,15 +2,15 @@
 <table width="90%">
   <tr>
     <td align="top"><b>President</b></td>
-	<td>Donald Weaver (Mary)<a href="mailto:dadweaver@hotmail.com">dadweaver@hotmail.com</a></td>
-  </tr>
-  <tr>
-	<td valign="top"><b>1st Vice President:</b></td>
 	<td>Ron Mahring (Stephanie) <a href="mailto:stephaniemahring@gmail.com">stephaniemahring@gmail.com</a></td>
   </tr>
   <tr>
+	<td valign="top"><b>1st Vice President:</b></td>
+	<td>Galen Niebarger (Becky) <a href="mailto:neibargerg@kenyon.edu">neibargerg@kenyon.edu</a></td>
+  </tr>
+  <tr>
 	<td valign="top"><b>Secretary:</b></td>
-	<td>Ed Cosby (Jan) <a href="mailto:cosbyed@yahoo.com">cosbyed@yahoo.com</a></td>
+	<td>Edward Cosby (Jan) <a href="mailto:cosbyed@yahoo.com">cosbyed@yahoo.com</a></td>
   </tr>
   <tr>
 	<td valign="top"><b>Treasurer:</b></td>
@@ -18,7 +18,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Jon Kinney</td>
+	<td>Zale Maxwell</td>
   </tr>
   <tr>
     <td colspan="2">

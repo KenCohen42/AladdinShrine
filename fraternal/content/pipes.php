@@ -2,7 +2,7 @@
 <table width="90%">
  <tr>
   <td> <b>Director:</b> </td>
-  <td>  Zale Maxwell (Susan) <a href="mailto:zaleandsusanmaxwell@gmail.com">zaleandsusanmaxwell@gmail.com</a>  </td>
+  <td>  Kris Hainsey (Jan) <a href="mailto:khainsey@columbus.rr.com">khainsey@columbus.rr.com</a>  </td>
  </tr>
  <tr>
   <td> <b>Assistant Director:</b> </td>
@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Zale Maxwell  </td>
+  <td> Rodney Holdren </td>
  </tr>
   <tr>
     <td colspan=2>

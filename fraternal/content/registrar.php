@@ -5,7 +5,7 @@
  </tr>
  <tr>
   <td><b>Assistant Director:</b> </td>
-  <td>Craig Lobdell</td>
+  <td>Craig Lobdell (Cheryl) <a href="mailto:lobdellc@delawareareacc.org">lobdellc@delawareareacc.org</a></td>
  </tr>
  <tr>
   <td><b>Secretary:</b> </td>
@@ -17,7 +17,7 @@
  </tr>
  <tr>
   <td><b>Divan Rep:</b> </td>
-  <td>Zale Maxwell </td>
+  <td>Jon Kinney </td>
  </tr>
  <tr>
   <td colspan=2>

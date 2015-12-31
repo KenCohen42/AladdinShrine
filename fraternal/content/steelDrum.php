@@ -4,13 +4,13 @@
   <td>  Dick Westinghouse (Mary) <a href="mailto:rwestinghouse@aol.com">rwestinghouse@aol.com</a>
   </td>
  </tr>
- <tr>
+ <!--tr>
   <td> <b>Assistant Director:</b> </td>
   <td>  Robert Cooper (Dianna) <a href="mailto:jake0513@gmail.com">jake0513@gmail.com</a>  </td>
- </tr>
+ </tr-->
  <tr>
   <td> <b>Secretary:</b> </td>
-  <td>Harold Runyan (Anna Ruth) <a href="mailto:srunyan.1959@gmail.com">srunyan.1959@gmail.com</a>  </td>
+  <td>Frank Stump (Dotty) <a href="mailto:fstump@insight.rr.com">fstump@insight.rr.com</a>  </td>
  </tr>
  <tr>
   <td> <b>Treasurer:</b> </td>
@@ -19,11 +19,11 @@
  </tr>
  <tr>
   <td>  <b>Divan Rep:</b>  </td>
-  <td> Art Wilson </td>
+  <td>Roscoe Smith</td>
  </tr>
  <tr>
   <td>
-  Meeting Date: 1st &amp; 3rd Wednesday 
+  Meeting Date: 2nd &amp; 4th Wednesday (March - November)
   </td>
  </tr>
 </table>

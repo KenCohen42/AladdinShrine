@@ -2,11 +2,11 @@
 <table width="90%">
   <tr>
 	<td valign="top"><b>President:</b></td>
-	<td>Tracey Achterman (Nancy) </td>
+	<td>Don Newman (Sandy) </td>
   </tr>
   <tr>
 	<td valign="top"><b>1st Vice President:</b></td>
-	<td>Dean White </td>
+	<td>Jim Leuthold</td>
   </tr>
   <tr>
 	<td valign="top"><b>Secretary:</b></td>
@@ -18,11 +18,11 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Rodney Holdren</td>
+	<td>Art Wilson</td>
   </tr>
   <tr>
     <td colspan="2">
-	Meeting Date: 4th Monday
+	Meeting Date:
     </td>
   </tr>
 </table>

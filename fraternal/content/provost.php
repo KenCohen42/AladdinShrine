@@ -24,15 +24,15 @@
  </tr>
  <tr>
   <td>  <b>Secretary:</b>  </td>
-  <td>  Jim Rohal (Cindy) <a href="mailto:jim@therohals.com">jim@therohals.com</a>  </td>
+  <td>  Jeff Rannebarger (Beverly) <a href="mailto:rannebargerjl@gmail.com">rannebargerjl@gmail.com</a>  </td>
  </tr>
  <tr>
   <td>  <b>Treasurer:</b>  </td>
-  <td>  Charles J. Linek, Jr. (Laura) <a href="mailto:cjlinek@bodinet.net">cjlinek@bodinet.net</a>  </td>
+  <td>  Robert Warner (Tamara) <a href="mailto:rwarner3@columbus.rr.com">rwarner3@columbus.rr.com</a>  </td>
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Art Wilson   </td>
+  <td> Rodney Holdren </td>
  </tr>
  <tr>
   <td colspan=2>

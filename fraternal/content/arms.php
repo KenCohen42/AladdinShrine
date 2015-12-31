@@ -8,11 +8,11 @@
   </tr>
   <tr> 
     <td> <b>1st Vice President:</b> </td>
-    <td> Robert Ferrell, Jr (Deborah) <a href="mailto:gboilercop3@gmail.com">gboilercop3@gmail.com</a> </td>
+    <td> Brian Dickensheets <a href="mailto:briandickensheets@gmail.com">briandickensheets@gmail.com</a> </td>
   </tr>
   <tr> 
     <td> <b>Secretary:</b> </td>
-    <td> Jeremy Clift (Gesila) <a href="mailto:jeremy.clift.ctr@afmetcal.af.mil">jeremy.clift.ctr@afmetcal.af.mil</a> </td>
+    <td> Jeremy Clift (Gesila) <a href="mailto:jeremy.clift.ctr@us.af.mil">jeremy.clift.ctr@us.af.mil</a> </td>
   </tr>
   <tr> 
     <td> <b>Treasurer:</b> </td>
@@ -20,7 +20,7 @@
   </tr>
   <tr> 
     <td> <b>Divan Rep:</b> </td>
-    <td>Todd Jones</td>
+    <td>Rodney Holdren</td>
   </tr>
   <tr> 
     <td colspan=2"> Meeting Date: 3rd Thursday</td>

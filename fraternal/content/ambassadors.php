@@ -2,11 +2,11 @@
 <table width="90%">
   <tr> 
     <td> <b>President:</b> </td>
-    <td> Zale Maxwell (Susan) <a href="zaleandsusan.maxwell@gmail.com">zaleandsusan.maxwell@gmail.com</a></td>
+    <td>Mark McLeod <a href="mailto:mcleodlawoffice@gmail.com">mcleodlawoffice@gmail.com</a></td>
   </tr>
   <tr> 
     <td> <b>1st Vice President:</b> </td>
-    <td>Mark McLeod <a href="mailto:mcleodlawoffice@gmail.com">mcleodlawoffice@gmail.com</a></td>
+    <td>John Luft (Marie) <a href="mailto:jpl3998@aol.com">jpl3998@aol.com</a></td>
   </tr>
   <tr> 
     <td> <b>Secretary/Treasurer:</b> </td>
@@ -15,7 +15,7 @@
   </tr>
   <tr> 
     <td> <b>Divan Rep:</b> </td>
-    <td>Zale Maxwell</td>
+    <td>Jon Kinney</td>
   </tr>
   <tr> 
     <td colspan="2"> Meeting Date: 2nd Tuesday</td>
