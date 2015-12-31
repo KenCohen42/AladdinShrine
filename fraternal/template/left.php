@@ -105,7 +105,7 @@ window.attachEvent("onload", initsidebarmenu)
 		<li><a href="lamps.php">Aladdin's Lamp</a></li>
 		<li><a href="ashac.php">ASHAC</a></li>
 		<li><a href="bylaws.php">Bylaws</a></li>
-		<li><a href="calendar.php">Calendar</a></li>
+		<li><a href="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mason340.com_49836muh8n64gscs6e4vkpojps%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FNew_York" target="_blank">Calendar</a></li>
         <li><a href="circus.php">Circus</a></li>
 		<li><a href="contact.php">Contact Us</a></li>
 		<li><a href="divan.php">Divan</a></li>
