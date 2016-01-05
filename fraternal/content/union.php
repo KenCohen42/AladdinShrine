@@ -9,15 +9,15 @@
  </tr>
  <tr>
   <td> <b>Secretary:</b>  </td>
-  <td> Stephen Ingram (Saundra) <a href="mailto:ssretired@embarqmail.com">ssretired@embarqmail.com</a> </td>
+  <td> Frank McEvoy (Tsaring) <a href="mailto:frankmcevoy1964@gmail.com">frankmcevoy1964@gmail.com</a> </td>
  </tr>
  <tr>
   <td> <b>Treasurer:</b> </td>
-  <td> David E. Cook (Michelle) <a href="mailto:davecook@embarqmail.com">davecook@embarqmail.com</a> </td>
+  <td> Dave Cook (Michelle) <a href="mailto:davecook@embarqmail.com">davecook@embarqmail.com</a> </td>
  </tr>
  <tr>
   <td> <b>Divan Rep:</b> </td>
-  <td> Rodney Holdren </td>
+  <td>Roscoe Smith</td>
  </tr>
  <tr>
   <td colspan="2"> Meeting Date: 1st Wednesday </td>

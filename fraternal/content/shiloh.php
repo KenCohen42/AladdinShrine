@@ -13,7 +13,7 @@
   </tr>
   <tr>
 	<td valign="top"><b>Divan Rep:</b></td>
-	<td>Todd Jones</td>
+	<td>Rodney Holdren</td>
   </tr>
   <tr>
     <td colspan="2">Meeting Date: 2nd Thursday  </td>

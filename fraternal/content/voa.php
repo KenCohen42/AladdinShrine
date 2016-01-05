@@ -2,7 +2,7 @@
  <tr >
   <td > <b>President:</b>
   </td>
-  <td > John S. Lehman (Sharon)  <a  href="mailto:k8pj@sbcglobal.net">k8pj@sbcglobal.net</a>  </td>
+  <td > John Lehman (Lisa)  <a  href="mailto:k8pj@sbcglobal.net">k8pj@sbcglobal.net</a>  </td>
  </tr>
  <tr>
    <td><b>1st Vice President:</b></td>
@@ -14,7 +14,7 @@
  </tr>
  <tr >
   <td > <b>Divan Rep:</b> </td>
-  <td > Art Wilson </td>
+  <td > Jon Kinney </td>
  </tr>
  <tr >
   <td colspan=2 > Meeting Date: 2nd Saturday/odd months  </td>

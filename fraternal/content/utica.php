@@ -9,17 +9,17 @@
  </tr>
  <tr >
   <td > <b>Secretary:</b> </td>
-  <td > James Light (Sara) </td>
+  <td > Jim Light (Sara) </td>
  </tr>
  <tr >
   <td > <b>Treasurer:</b> </td>
-  <td >  Bob Shaw (Pam)  </td>
+  <td >  Jim Gill (Karen)  </td>
  </tr>
  <tr >
   <td > <b>Divan Rep:</b> </td>
-  <td > Zale Maxwell </td>
+  <td > Roscoe Smith </td>
  </tr>
  <tr>
-  <td colspan=2 > Meeting Date: 4th Wednesday   </td>
+  <td colspan=2 > Meeting Date: 3rd Wednesday   </td>
  </tr>
 </table>

@@ -2,11 +2,11 @@
 <table width="90%">
  <tr>
   <td valign=top> <b>President:</b> </td>
-  <td> Gregory Nartker (Angie) <a href="mailto:angie.nartker@gmail.com">angie.nartker@gmail.com</a> </td>
+  <td> Charles "Mike" Wright (Gloria) <a href="mailto:charglo73@gmail.com">charglo73@gmail.com</a> </td>
  </tr>
  <tr>
   <td valign=top> <b>1st Vice President:</b> </td>
-  <td> Charles Wright (Gloria)  </td>
+  <td> Ronald Bixler (Stephanie) <a href="mailto:rbixler60@yahoo.com">rbixler60@yahoo.com</a> </td>
  </tr>
  <tr>
   <td valign=top> <b>Secretary:</b> </td>
@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td valign=top> <b>Divan Rep:</b> </td>
-  <td> Rodney Holdren </td>
+  <td> Art Wilson </td>
  </tr>
  <tr>
   <td colspan=2> Meeting Date: 1st Wednesday  </td>

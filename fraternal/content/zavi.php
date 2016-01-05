@@ -1,11 +1,11 @@
 <table width="90%">
 <tr >
   <td> <b>President</b> </td>
-  <td>Tim Snelling <a href="mailto:tsnelling@columbus.rr.com">tsnelling@columbus.rr.com</a> </td>
+  <td> Ed Shearrow (Katherine) <a href="mailto:shearrow@gmail.com">shearrow@gmail.com</a> </td>
  </tr>
  <tr>
   <td> <b>1st Vice President:</b> </td>
-  <td> Ed Shearrow (Katherine) <a href="mailto:shearrow@gmail.com">shearrow@gmail.com</a> </td>
+  <td> Dwight Bonnifield (Barb) <a href="mailto:shrine94@aol.com">shrine94@aol.com</a></td>
  </tr>
  <tr>
   <td> <b>Secretary:</b> </td>
