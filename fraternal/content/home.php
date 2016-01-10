@@ -66,33 +66,31 @@
 	  <table align="center">
 		<tr>
 		  <td align="center">
-         	  <a href="events/2016/20160109InstallationFull.png" target="new"><img src="events/2016/20160109InstallationThumb.png"><br/>Leadership Seminar &amp; Installation<br/>January 9, 2016</a> 
-		  </td>
-		  <td align="center">
          	  <a href="events/2016/20160123FootballFull.png" target="new"><img src="events/2016/20160123FootballThumb.png"><br/>East West Shrine Game<br/>January 23, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160213ValentineFull.png" target="new"><img src="events/2016/20160213ValentineThumb.png"><br/>Valentines Dance<br/>February 12, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160305MovieFull.png" target="new"><img src="events/2016/20160305MovieThumb.png"><br/>Family Movie Night<br/>March 5, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 20-14, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
 		  </td>
+		  <td>&nsbp;</td>
 		  <td align="center">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
 		  </td>
