@@ -48,17 +48,9 @@
     <td>ext. 112</td>
   </tr>
   <tr> 
-    <td>Deb Rose</td>
-    <td>Catering by Design</td>
-    <td><a href="mailto:drose@AVIFoodsystems.com">drose@AVIFoodsystems.com</a></td>
-    <td>ext 124 </td>
-	<td>(614) 471-2260</td>
-	<td>Cell: (330) 806-8991 Fax: (614) 471-2776</td>
-  </tr>
-  <tr> 
-    <td>David Wolfe</td>
+    <td>Ron Leonard</td>
     <td>Potentate</td>
-    <td><a href="mailto:davewolfe@aladdinshrine.org">davewolfe@aladdinshrine.org</a></td>
+    <td><a href="mailto:rleon95596@aol.com">rleon95596@aol.com</a></td>
     <td>ext. 104</td>
   </tr>
   <tr> 
@@ -74,9 +66,9 @@
     <td>ext. 109</td>
   </tr>
   <tr>
-    <td>John Morris</td>
+    <td>C.J. Carter</td>
     <td>Circus Director</td>
-    <td><a href="mailto:jmorris@aladdinshrine.org">jmorris@aladdinshrine.org</a></td>
+    <td><a href="mailto:circus@aladdinshrine.org">circus@aladdinshrine.org</a></td>
     <td>ext. 117</td>
   </tr>
   <tr> 

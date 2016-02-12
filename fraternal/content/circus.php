@@ -1,8 +1,8 @@
 <table width="100%">
   <tr>
 	<td valign="top" align="center">
-	  <img src="images/2016circusDates.jpg" alt="Circus Details"><br/>
-	  <img src="images/circusSeatingChart.png" alt="seatingChart">
+	  <a href="images/2016ShrineCircus.pdf">Circus Details<br/><br/><br/>
+	  <img src="images/2016CircusSeating.gif" alt="seatingChart">
     </td>
   </tr>
 </table>
