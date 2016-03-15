@@ -49,50 +49,58 @@
   </tr>
   <tr>
     <td>
-	<!--br/><br/>
+	<br/><br/>
       <hr/>
 	  <br><br/>
-	  <h3>How is our Grove City site progressing?</h3>
-	  <a href="grovecity.php"><img src="images/ActiveSlideShow/grovecity/image0.jpg" alt="Front view" width="600"><br/>
-	  Click here to see more pictures</a>
+  	  <h2>Stated Meeting Reservations</h2>
+	  
+	  Reservations for the stated meeting are now required.<br/>
+	  The preferred mode of making a reservation is through Local Level Events.  The web address for the stated meetings is 
+	  <a href="https://www.localevelevents.com/events/details/1603">https://www.localevelevents.com/events/details/1603</a><br/><br/>
+	  
+	  This link can also be found on our website, and Facebook.  Once you follow the link you will need to set up an account.  There is a tab at the top of the screen for this.  
+	  Setting up the account is easy and only requires you to provide an email address and a password of your choice.  Once this is done you can register for this event.   It will 
+	  ask for an access code, which is, aladdin. A reservation form will be created and can print it out for conformation for the March stated meeting.  You will also receive an 
+	  email confirmation.<br/><br/>
+	  
+	  You may also make reservations by emailing Amber at <a href="mailto:acrosby@aladdinshrine.org">acrosby@aladdinshrine.org</a>.<br/><br/>
+	  
+	  If you do not have email you may call Amber at 614.475.2609
 	  <br/><br/>
-	  <hr/>
+	  <hr>
 	  <br/><br/>
-	&nbsp;&nbsp;<a href="images/GMEdict20141204.pdf" target="new">Grand Master's Edict Regarding Gambling</a>
-	<br/><br/><hr><br/><br/-->
 	<h2>Coming Events</h2>
-       &nbsp;&nbsp;<!--a href="parade.php">2015 Parade Schedule</a><br/><br/-->
+       &nbsp;&nbsp;<a href="parade.php">2016 Parade Schedule</a><br/><br/>
       <p>
 	  <hr/>
 	  <table align="center">
 		<tr>
-		  <td align="center">
-         	  <a href="events/2016/20160213ValentineFull.png" target="new"><img src="events/2016/20160213ValentineThumb.png"><br/>Valentines Dance<br/>February 12, 2016</a> 
-		  </td>
-		  <td align="center">
-         	  <a href="events/2016/20160305MovieFull.png" target="new"><img src="events/2016/20160305MovieThumb.png"><br/>Family Movie Night<br/>March 5, 2016</a> 
+		  <td align="center">&nbsp;
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160326EasterFull.png" target="new"><img src="events/2016/20160326EasterThumb.png"><br/>Kids' Easter Egg Hunt<br/>March 26, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160326AdultEasterFull.png" target="new"><img src="events/2016/20160326AdultEasterThumb.png"><br/>Adult Easter Egg Hunt<br/>March 26, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160409QuiltFull.png" target="new"><img src="events/2016/20160409QuiltThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center">
          	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 10-14, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center">
-         	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
+         	  <a href="events/2016/20160423BeerFest.png" target="new"><img src="events/2016/20160423BeerFestThumb.png"><br/>Beer Fest<br/>April 23, 2016</a> 
+		  </td>
+		  <td align="center">
+         	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Potentate's Ball<br/>April 30, 2016</a> 
 		  </td>
 		  <td align="center">
          	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a> 
@@ -128,7 +136,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201602.pdf"><br/>
-      February Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201603.pdf"><br/>
+      March Lamp Now Posted</a> </td>
   </tr>
 </table>
