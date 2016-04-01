@@ -60,9 +60,9 @@
     <td>ext. 105</td>
   </tr>
   <tr> 
-    <td>Dennis Feyh</td>
+    <td>Garol Rogers</td>
     <td>Treasurer</td>
-    <td><a href="mailto:ddf6@hotmail.com">ddf6@hotmail.com</a></td>
+    <td><a href="mailto:grogers2188@twc.com">grogers2188@twc.com</a></td>
     <td>ext. 109</td>
   </tr>
   <tr>

@@ -75,51 +75,43 @@
 	  <hr/>
 	  <table align="center">
 		<tr>
-		  <td align="center">&nbsp;
-		  </td>
-		  <td align="center">
-         	  <a href="events/2016/20160317CircusFull.png" target="new"><img src="events/2016/20160317CircusThumb.png"><br/>Aladdin Shrine Circus<br/>March 17-20, 2016</a> 
-		  </td>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160326EasterFull.png" target="new"><img src="events/2016/20160326EasterThumb.png"><br/>Kids' Easter Egg Hunt<br/>March 26, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160326AdultEasterFull.png" target="new"><img src="events/2016/20160326AdultEasterThumb.png"><br/>Adult Easter Egg Hunt<br/>March 26, 2016</a> 
 		  </td>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160409QuiltFull.png" target="new"><img src="events/2016/20160409QuiltThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
 		  </td>
-		  <td align="center">
+		</tr>
+		<tr>
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 10-14, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160423BeerFest.png" target="new"><img src="events/2016/20160423BeerFestThumb.png"><br/>Beer Fest<br/>April 23, 2016</a> 
 		  </td>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Potentate's Ball<br/>April 30, 2016</a> 
 		  </td>
-		  <td align="center">
-         	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a> 
-		  </td>
 		</tr>
 		<tr>
-		  <td align="center">
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a><br/><a href="https://www.localevelevents.com/events/details/1646">REGISTER</a> 
+		  </td>
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160612FishingFull.png" target="new"><img src="events/2016/20160612FishingThumb.png"><br/>Walleye Fishing Stag<br/>June 12-13, 2016</a> 
 		  </td>
-		  <td align="center">
+		  <td align="center" valign="top">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
-		  </td>
-		  <td align="center">
-         	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
 		  </td>
 		</tr>
 		<tr>
-		  <td>&nbsp;</td>
-		  <td align="center">
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
+		  </td>
+\		  <td align="center" valign="top">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
 		  </td>
 		  <td>&nbsp;</td>
@@ -136,7 +128,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201603.pdf"><br/>
-      March Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201604.pdf"><br/>
+      April Lamp Now Posted</a> </td>
   </tr>
 </table>
