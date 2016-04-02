@@ -76,31 +76,31 @@
 	  <table align="center">
 		<tr>
 		  <td align="center" valign="top">
-         	  <a href="events/2016/20160326EasterFull.png" target="new"><img src="events/2016/20160326EasterThumb.png"><br/>Kids' Easter Egg Hunt<br/>March 26, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160326AdultEasterFull.png" target="new"><img src="events/2016/20160326AdultEasterThumb.png"><br/>Adult Easter Egg Hunt<br/>March 26, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
          	  <a href="events/2016/20160409QuiltFull.png" target="new"><img src="events/2016/20160409QuiltThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 10-14, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160423BeerFest.png" target="new"><img src="events/2016/20160423BeerFestThumb.png"><br/>Beer Fest<br/>April 23, 2016</a> 
 		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Potentate's Ball<br/>April 30, 2016</a> 
-		  </td>
 		</tr>
 		<tr>
 		  <td align="center" valign="top">
-         	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a><br/><a href="https://www.localevelevents.com/events/details/1646">REGISTER</a> 
+         	  <a href="events/2016/20160425MasonicNightFull.png" target="new"><img src="events/2016/20160425MasonicNightThumb.png"><br/>Masonic Night<br/>April 25, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
+         	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Potentate's Ball<br/>April 30, 2016</a> 
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a><br/><a href="https://www.localevelevents.com/events/details/1646">REGISTER</a> 
+		  </td>
+		</tr>
+		<tr>
+ 		  <td align="center" valign="top">
+         	  <a href="events/2016/20160522KinneyTravelFull.png" target="new"><img src="events/2016/20160522KinneyTravelThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
+		  </td>
+  		  <td align="center" valign="top">
          	  <a href="events/2016/20160612FishingFull.png" target="new"><img src="events/2016/20160612FishingThumb.png"><br/>Walleye Fishing Stag<br/>June 12-13, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
