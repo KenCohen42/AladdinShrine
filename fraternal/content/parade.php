@@ -7,10 +7,6 @@
   </tr>
   <tr>
     <td>
-Pike County Dogwood Parade</td><td>4/24</td><td>2 p.m.</td><td>3 p.m.</td>
-  </tr>
-  <tr>
-    <td>
 Utica Ice Cream Festival</td><td>5/28</td><td>10 a.m.</td><td>11 a.m.</td>
   </tr>
   <tr>
@@ -29,7 +25,7 @@ Imperial Parade</td><td>7/4</td><td>5 p.m.</td><td>6 p.m.</td>
   </tr>
   <tr>
     <td> Bucyrus Parade</td>
-    <td>8/12</td>
+    <td>8/19</td>
     <td>6 p.m.</td>
     <td>7 p.m.</td>
   </tr>
@@ -58,9 +54,7 @@ Imperial Parade</td><td>7/4</td><td>5 p.m.</td><td>6 p.m.</td>
     <td>12:45 p.m.</td>
   </tr>
   <tr>
-    <td colspan="4">			
-APPROVED PARADES			
-    </td>
+    <td colspan="4" align="center"> <strong>APPROVED PARADES </strong> </td>
   </tr>
   <tr>
     <th>Parade</th><th>Date</th><th>Line Up</th><th>Step Off</th>

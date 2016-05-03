@@ -55,8 +55,8 @@
   	  <h2>Stated Meeting Reservations</h2>
 	  
 	  Reservations for the stated meeting are now required.<br/>
-	  The preferred mode of making a reservation is through Local Level Events.  The web address for the stated meetings is 
-	  <a href="https://www.localevelevents.com/events/details/1603">https://www.localevelevents.com/events/details/1603</a><br/><br/>
+	  The preferred mode of making a reservation is through Local Level Events.  The web address for the <strong>April</strong> stated meeting is 
+	  <a href="https://www.localevelevents.com/events/details/1782">https://www.localevelevents.com/events/details/1782</a><br/><br/>
 	  
 	  This link can also be found on our website, and Facebook.  Once you follow the link you will need to set up an account.  There is a tab at the top of the screen for this.  
 	  Setting up the account is easy and only requires you to provide an email address and a password of your choice.  Once this is done you can register for this event.   It will 
@@ -74,47 +74,59 @@
       <p>
 	  <hr/>
 	  <table align="center">
-		<tr>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160409QuiltFull.png" target="new"><img src="events/2016/20160409QuiltThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160410GolfFull.png" target="new"><img src="events/2016/20160410GolfThumb.png"><br/>Santee Golf <br/>April 10-14, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160423BeerFest.png" target="new"><img src="events/2016/20160423BeerFestThumb.png"><br/>Beer Fest<br/>April 23, 2016</a> 
-		  </td>
-		</tr>
-		<tr>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160425MasonicNightFull.png" target="new"><img src="events/2016/20160425MasonicNightThumb.png"><br/>Masonic Night<br/>April 25, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160430PoteBallFull.png" target="new"><img src="events/2016/20160430PoteBallThumb.png"><br/>Potentate's Ball<br/>April 30, 2016</a> 
-		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a><br/><a href="https://www.localevelevents.com/events/details/1646">REGISTER</a> 
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160514BreakfastFull.png" target="new"><img src="events/2016/20160514BreakfastThumb.png"><br/>Pancake &amp; Sausage Breakfast<br/>May 14, 2016</a><br/> 
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160521LadiesTripFull.png" target="new"><img src="events/2016/20160521LadiesTripThumb.png"><br/>Ladies Trip to Lebanon<br/>May 21, 2016</a><br/> 
 		  </td>
 		</tr>
 		<tr>
  		  <td align="center" valign="top">
-         	  <a href="events/2016/20160522KinneyTravelFull.png" target="new"><img src="events/2016/20160522KinneyTravelThumb.png"><br/>Elaine's Quilt Show<br/>April 9, 2016</a> 
+         	  <a href="events/2016/20160522KinneyTravelFull.png" target="new"><img src="events/2016/20160522KinneyTravelThumb.png"><br/>2017 Cruise Preview<br/>May 22, 2016</a> 
 		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160605ErieOpenHouseFull.png" target="new"><img src="events/2016/20160605ErieOpenHouseThumb.png"><br/>Erie Open House<br/>June 6, 2016</a><br/> 
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160611CeremonialFull.png" target="new"><img src="events/2016/20160611CeremonialThumb.png"><br/>Ceremonial<br/>June 11, 2016</a><br/> 
+		  </td>
+		</tr>
+		<tr>
   		  <td align="center" valign="top">
          	  <a href="events/2016/20160612FishingFull.png" target="new"><img src="events/2016/20160612FishingThumb.png"><br/>Walleye Fishing Stag<br/>June 12-13, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
 		  </td>
-\		  <td align="center" valign="top">
+		</tr>
+		<tr>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160709StagPicnicFull.png" target="new"><img src="events/2016/20160709StagPicnicThumb.png"><br/>Stag Picnic<br/>July 9, 2016</a> 
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2016/20160716SummerPicnicFull.png" target="new"><img src="events/2016/20160716SummerPicnicThumb.png"><br/>Summer Picnic<br/>July 16, 2016</a> 
+		  </td>
+		  <td align="center" valign="top">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
 		  </td>
-		  <td>&nbsp;</td>
+		</tr>
+		<tr>
+		  <td align="center" valign="top">&nbsp;
+         	  
+		  </td>
+		  <td align="center" valign="top">
+         	  <a href="events/2017/20170225CostaRicaFull.png" target="new"><img src="events/2017/20170225CostaRicaThumb.png"><br/>Costa Rica Trip<br/>February 25, 2017</a> 
+		  </td>
+		  <td align="center" valign="top">&nbsp;
+         	  
+		  </td>
 		</tr>
 		</table>
 	  <hr/>
@@ -128,7 +140,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201604.pdf"><br/>
-      April Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201605.pdf"><br/>
+      May Lamp Now Posted</a> </td>
   </tr>
 </table>
