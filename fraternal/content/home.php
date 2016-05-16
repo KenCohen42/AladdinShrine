@@ -75,57 +75,46 @@
 	  <hr/>
 	  <table align="center">
 		  <td align="center" valign="top">
-         	  <a href="events/2016/20160507DerbyFull.png" target="new"><img src="events/2016/20160507DerbyThumb.png"><br/>Kentucky Derby Party<br/>May 7, 2016</a><br/><a href="https://www.localevelevents.com/events/details/1646">REGISTER</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160514BreakfastFull.png" target="new"><img src="events/2016/20160514BreakfastThumb.png"><br/>Pancake &amp; Sausage Breakfast<br/>May 14, 2016</a><br/> 
-		  </td>
-		  <td align="center" valign="top">
          	  <a href="events/2016/20160521LadiesTripFull.png" target="new"><img src="events/2016/20160521LadiesTripThumb.png"><br/>Ladies Trip to Lebanon<br/>May 21, 2016</a><br/> 
 		  </td>
-		</tr>
-		<tr>
  		  <td align="center" valign="top">
-         	  <a href="events/2016/20160522KinneyTravelFull.png" target="new"><img src="events/2016/20160522KinneyTravelThumb.png"><br/>2017 Cruise Preview<br/>May 22, 2016</a> 
+         	  <a href="events/2017/20170225CostaRicaFull.png" target="new"><img src="events/2017/20170225CostaRicaThumb.png"><br/>2017 Cruise Preview<br/>May 22, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160605ErieOpenHouseFull.png" target="new"><img src="events/2016/20160605ErieOpenHouseThumb.png"><br/>Erie Open House<br/>June 6, 2016</a><br/> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160611CeremonialFull.png" target="new"><img src="events/2016/20160611CeremonialThumb.png"><br/>Ceremonial<br/>June 11, 2016</a><br/> 
 		  </td>
-		</tr>
-		<tr>
   		  <td align="center" valign="top">
          	  <a href="events/2016/20160612FishingFull.png" target="new"><img src="events/2016/20160612FishingThumb.png"><br/>Walleye Fishing Stag<br/>June 12-13, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160709StagPicnicFull.png" target="new"><img src="events/2016/20160709StagPicnicThumb.png"><br/>Stag Picnic<br/>July 9, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20160716SummerPicnicFull.png" target="new"><img src="events/2016/20160716SummerPicnicThumb.png"><br/>Summer Picnic<br/>July 16, 2016</a> 
 		  </td>
+		</tr>
+		<tr>
 		  <td align="center" valign="top">
          	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
 		  </td>
-		</tr>
-		<tr>
 		  <td align="center" valign="top">&nbsp;
          	  
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2017/20170225CostaRicaFull.png" target="new"><img src="events/2017/20170225CostaRicaThumb.png"><br/>Costa Rica Trip<br/>February 25, 2017</a> 
-		  </td>
-		  <td align="center" valign="top">&nbsp;
-         	  
 		  </td>
 		</tr>
 		</table>
