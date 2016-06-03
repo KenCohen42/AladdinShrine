@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
 	<td valign="top" align="center">
-<h1 align="center">2015-2016</h1>
+<h1 align="center">2016-2017</h1>
       <h1 align="center">Ohio Shrine Association</h1>
 
 <div align="center">
@@ -34,34 +34,27 @@
               of the first state-wide effort.</p>
 
       <h2 align="center">Ohio Shrine Association Officers</h2>
+
       <h4 align="center">President</h4>
-
-            <p align="center">Steve Hathaway, P.P.</p>
-
-            <p align="center"><a href="http://aladdinshrine.org">Aladdin 
-              Shriners</a>, Columbus, Ohio<br>
-      </p>
-
-      <h4 align="center">1st Vice President</h4>
 
             <p align="center">Fred Robinson, P.P.</p>
 
       <p align="center"><a href="http://syrianshrine.homepage.com/">Syrian Shriners</a>, Cincinnati, Ohio<br>
       </p>
 
-      <h4 align="center">2nd Vice President</h4>
+      <h4 align="center">1st Vice President</h4>
 
             <p align="center">Robert E. Secoy, P.P.</p>
 
             <p align="center"><a href="http://www.amplex.net/zenobiashrine/">Zenobia Shriners</a>, Perrysburg, Ohio<br>
       </p>
 
-            <h4 align="center">3rd Vice President</h4>
+            <h4 align="center">2nd Vice President</h4>
             <p align="center">Gary DeMoss, P.P.</p>
             <p align="center"><a href="http://www.tadmorshrine.org/">Tadmor Shriners</a>, Akron, Ohio<br>
             </p>
 
-      <h4 align="center">4th Vice President</h4>
+      <h4 align="center">3rd Vice President</h4>
 
             <p align="center">Scott Lipps, P.P.</p>
 
@@ -69,7 +62,7 @@
               Dayton, Ohio<br>
       </p>
 
-      <h4 align="center">5th Vice President</h4>
+      <h4 align="center">4th Vice President</h4>
 
             <p align="center">R. Gordon Hastler, P.P.</p>
 			<p align="center"><a href="http://www.alkoran.org/">Al Koran Shriners</a>, Broadview Heights, OH</p>
@@ -79,6 +72,16 @@
             <p align="center">John (Jack) Connor, P.P.</p>
 
             <p align="center"><a href="http://www.alkoran.org/">Al Koran Shriners</a>, Broadview Heights, Ohio</p>
+      <h4 align="center">5th Vice President</h4>
+
+            <p align="center">Jon M. Kinney, Chief Rabban</p>
+			<p align="center"><a href="http://www.aladdinshrine.org/">Aladdin Shriners</a>, Columbus, OH</p>
+
+            <h4 align="center">Secretary - Treasurer</h4>
+
+            <p align="center">Ronald L. Leonard Potentate</p>
+
+            <p align="center"><a href="http://www.aladdinshrine.org/">Aladdin Shriners</a>, Columbus, Ohio</p>
 
       <p>&nbsp;</td>
   </tr>
@@ -123,4 +126,3 @@
   </tr>
 </table>
 <br/><br/>
-<center><strong>Aladdin Shrine Center 1801 Gateway Circle., Grove City, Ohio 43123</strong></center>
