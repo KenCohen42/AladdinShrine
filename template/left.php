@@ -1,4 +1,4 @@
-<table width="180" bgcolor="#A0906B">
+<table width="180" bgcolor="#a0906b">
   <tr>
     <td align="center"> 
 	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="147" height="34">
@@ -31,32 +31,18 @@
       </object><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="23">
         <param name="BGCOLOR" value="">
-        <param name="movie" value="aladdinmpr.swf">
-        <param name="quality" value="high">
-        <param name="base" value=".">
-        <embed src="aladdinmpr.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="23" ></embed> 
-      </object><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="23">
-        <param name="BGCOLOR" value="">
         <param name="movie" value="aladdinaladdin.swf">
         <param name="quality" value="high">
         <param name="base" value=".">
         <embed src="aladdinaladdin.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="23" ></embed> 
       </object><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="23">
-        <param name="BGCOLOR" value="">
-        <param name="movie" value="aladdinoasis.swf">
-        <param name="quality" value="high">
-        <param name="base" value=".">
-        <embed src="aladdinoasis.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="23" ></embed> 
-      </object><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="23">
+	  <!--object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="100" height="23">
         <param name="BGCOLOR" value="">
         <param name="movie" value="aladdinboardroom.swf">
         <param name="quality" value="high">
         <param name="base" value=".">
         <embed src="aladdinboardroom.swf" base="."  quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="23" ></embed> 
-      </object>
+      </object-->
       <br/>
 	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="147" height="34">
         <param name="BGCOLOR" value="#A0906B">

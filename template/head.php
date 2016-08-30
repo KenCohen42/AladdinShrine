@@ -1,24 +1,24 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#A0906B">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="images/beigeswirl.jpg">
 	  <tr>
-	    <td height="3" colspan="3"><spacer type="block" height="3"></td>
+	    
+    <td height="3"><img src="../business/images/fleurbg.jpg" width="150" height="170"><spacer type="block" height="3"></td>
 	  </tr>
 	  <tr>
-	    <td width="200" align="center" valign="center">
-
+	    <td width="200" align="center" valign="middle">
 		  <table width="180" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="images/logo.png" align="center" border="0" width="150">
-   </td>
-  </tr>
-</table>
-
-  		</td>
-		<!--td align="center" valign="top"  align="center" width="100%">
-		   <img src="images/NewAladdinShrine.png">
-           <h1>
-		       <font color="#990000" size="5">EVENT &amp; CONFERENCE CENTER</font></h1>
-		</td-->
+            <tr>
+              <td align="center" valign="middle">
+                <img src="images/SCIMITAR.JPG" alt="Shriners" width="150">
+              </td>
+			  <td align="center" valign="top" align="middle" width="100%">
+		        <img src="images/NewAladdinShrine.png">
+			  </td>
+			</tr>
+          </table>
+		</td>
 	  </tr>
-    </table>
+	  <tr>
+	    <td height="3"><spacer type="block" height="3"></td>
+	  </tr>
+</table>

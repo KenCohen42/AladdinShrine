@@ -35,13 +35,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-	  <br/><br/><hr/><br/><br/>
-	  <img src="events/2016/20160822OSUFootballRaffleFull.png" alt="raffle">
-	  <br/><br/><hr/><br/><br/>
-	</td>
-  </tr>
-  <tr>
     <td><a href="http://smile.amazon.com/ch/31-6027695"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEfb6WgESNqwijfaNcXoZfchXDvjlxf204iNbfAWTt8OxIScspR607Yo" alt="Amazon Smile" width="100">
 	&nbsp;&nbsp;Now: use Amazon Smiles to support ASHAC</a>
 	<br/><br/><hr/><br/><br/>
@@ -54,52 +47,34 @@
       <p>
 	  <hr/>
 	  <table align="center">
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160605ErieOpenHouseFull.png" target="new"><img src="events/2016/20160605ErieOpenHouseThumb.png"><br/>Erie Open House<br/>June 6, 2016</a><br/> 
+		<tr>
+     	  <td align="center" valign="top">
+         	  <a href="events/2016/20160930OglebayFull.png" target="new"><img src="events/2016/20160930OglebayThumb.png"><br/>Oglebay Resort<br/>September 30 - October 2, 2016</a> 
 		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160611CeremonialFull.png" target="new"><img src="events/2016/20160611CeremonialThumb.png"><br/>Ceremonial<br/>June 11, 2016</a>
-			  <br/><a href="https://www.localevelevents.com/events/details/1903"><img src="images/book.jpg" alt="Reserve" width="100"></a>
+     	  <td align="center" valign="top">
+         	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>October 10-18, 2016</a> 
 		  </td>
-  		  <td align="center" valign="top">
-         	  <a href="events/2016/20160612FishingFull.png" target="new"><img src="events/2016/20160612FishingThumb.png"><br/>Walleye Fishing Stag<br/>June 12-13, 2016</a> 
+    	  <td align="center" valign="top">
+         	  <a href="events/2016/20161014FallDanceFull.png" target="new"><img src="events/2016/20161014FallDanceThumb.png"><br/>Fall Dance<br/>October 14, 2016</a> 
 		  </td>
 		</tr>
 		<tr>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160613CruiseFull.png" target="new"><img src="events/2016/20160613CruiseThumb.png"><br/>European River Cruise<br/>June 13-24, 2016</a> 
+    	  <td align="center" valign="top">
+         	  <a href="events/2016/20161029HalloweenTailgateFull.png" target="new"><img src="events/2016/20161029HalloweenTailgateThumb.png"><br/>Halloween &amp; Tailgate Party<br/>October 29, 2016</a> 
 		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160703ImperialFull.png" target="new"><img src="events/2016/20160703ImperialThumb.png"><br/>Imperial Session<br/>July 3-7, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160709StagPicnicFull.png" target="new"><img src="events/2016/20160709StagPicnicThumb.png"><br/>Stag Picnic<br/>July 9, 2016</a> 
- 			  <br/><a href="https://www.localevelevents.com/events/details/1923"><img src="images/book.jpg" alt="Reserve" width="100"></a>
-
-		  </td>
-		</tr>
-		<tr>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160716SummerPicnicFull.png" target="new"><img src="events/2016/20160716SummerPicnicThumb.png"><br/>Summer Picnic<br/>July 16, 2016</a> 
-			  <br/><a href="https://www.localevelevents.com/events/details/1925"><img src="images/book.jpg" alt="Reserve" width="100"></a>
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160719ClippersFull.png" target="new"><img src="events/2016/20160719ClippersThumb.png"><br/>Columbus Clippers<br/>July 19, 2016</a> 
-		  </td>
-		  <td align="center" valign="top">
-         	  <a href="events/2016/20160806HamfestFull.png" target="new"><img src="events/2016/20160806HamfestThumb.png"><br/>Columbus Hamfest<br/>August 6, 2016</a> 
-		  </td>
-		</tr>
-		<tr></tr>
-			  <td align="center" valign="top">
-         	  <a href="events/2016/20160821CarShowFull.png" target="new"><img src="events/2016/20160821CarShowThumb.png"><br/>Car Show<br/>August 21, 2016</a> 
-		  </td>
-	  <td align="center" valign="top">
-         	  <a href="events/2016/20161010TrainFull.png" target="new"><img src="events/2016/20161010TrainThumb.png"><br/>Trains &amp; Parks of Colorado<br/>September 10-18, 2016</a> 
+    	  <td align="center" valign="top">
+         	  <a href="events/2016/20161211KidsXmasFull.png" target="new"><img src="events/2016/20161211KidsXmasThumb.png"><br/>Children's Christmas Party<br/>December 11, 2016</a> 
 		  </td>
 		  <td align="center" valign="top">
          	  <a href="events/2017/20170225CostaRicaFull.png" target="new"><img src="events/2017/20170225CostaRicaThumb.png"><br/>Costa Rica Trip<br/>February 25, 2017</a> 
 		  </td>
+		</tr>
+		<tr>
+		  <td>&nbsp;</td>
+		  <td align="center" valign="top">
+         	  <a href="events/2017/20170630cookbook_adFull.png" target="new"><img src="events/2017/20170630cookbook-adThumb.png"><br/>Cookbook Project<br/>Deadline June 30, 2017</a><br/><a href="cookbook.php">More details</a> 
+		  </td>
+		  <td>&nbsp;</td>
 		</tr>
 		</table>
 	  <hr/>
@@ -113,7 +88,7 @@
 <!-- Facebook Badge END -->
 	  </p>
       <hr/>
-      <img src="images/lamp.png"> <a href="lamps/201606.pdf"><br/>
-      June Lamp Now Posted</a> </td>
+      <img src="images/lamp.png"> <a href="lamps/201609.pdf"><br/>
+      September Lamp Now Posted</a> </td>
   </tr>
 </table>
